@@ -1,0 +1,19 @@
+<div class="search-container">
+  <mat-form-field appearance="outline">
+    <mat-label>Search clubs</mat-label>
+    <input matInput (keyup)="onSearch($event)" placeholder="Search by name, city, or country">
+  </mat-form-field>
+</div>
+
+<div *ngIf="noResults" class="no-results">
+  <p>No clubs found matching your search criteria.</p>
+</div>
+
+<div class="container responsive-grid">
+  <mat-card class="club-card" appearance="outlined" *ngFor="let club of filteredClubs" (click)="openClubDetailModal(club)">
+    <img mat-card-image [src]="club.logo_url" alt="club_logo" class="logo">
+      <mat-card-header>
+        <mat-card-title class="title">{{club.name}}</mat-card-title>
+      </mat-card-header>
+    </mat-card>
+  </div>

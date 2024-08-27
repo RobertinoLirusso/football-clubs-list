@@ -1,0 +1,46 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: snow;
+}
+
+header {
+    background-color: #333; /* Fondo oscuro */
+    color: #fff; /* Texto blanco */
+    padding: 16px 0; /* Espaciado interno vertical */
+    display: flex; /* Usar flexbox para alinear elementos */
+    justify-content: left; /* Centrar el contenido horizontalmente */
+}
+
+header .title {
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 10px;
+    color: #fff;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.intro {
+    background-color: snow; /* Color de fondo gris claro */
+    padding: 20px; /* Espaciado interno */
+    margin: 10px 0; /* Espaciado superior e inferior */
+    text-align: center; /* Centrar el texto */
+    font-size: 15px; /* Tamaño de fuente */
+    color: #333; /* Color del texto */
+}
+
+
+
+main {
+    flex: 1;
+}
+
+
+footer {
+    background-color:#333;
+    color: #fff;
+    text-align: center;
+    padding: 14px;
+}

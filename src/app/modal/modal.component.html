@@ -1,0 +1,9 @@
+<h2 mat-dialog-title>{{data.name}}</h2>
+<mat-dialog-content class="mat-typography">
+  <img [src]="data.logo_url" alt="{{data.name}} logo" class="logo">
+  <h3><b>{{data.city_country}}</b></h3>
+  <p>{{data.description}}</p>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Close</button>
+</mat-dialog-actions>
