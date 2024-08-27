@@ -1,8 +1,123 @@
 [
   {
+    "name": "Arsenal",
+    "description": "Arsenal, founded in 1886, is one of the most successful clubs in English football, with 13 league titles and 14 FA Cups. Known for their attacking style and 'Invincibles' season in 2003-04, they play at the Emirates Stadium in North London.",
+    "city_country": "London, England",
+    "logo_url": "https://2.bp.blogspot.com/-Ur4a84D97-k/WVLm8KzGnsI/AAAAAAABJ88/QVEhSGrZSD0ZsRbqUbtGiTFJI6V7DrPsQCLcBGAs/s1600/Arsenal%2BFC256x.png"
+  },
+  {
+    "name": "Aston Villa",
+    "description": "Aston Villa, established in 1874, is one of the oldest clubs in England. They have won seven league titles, seven FA Cups, and a European Cup in 1982. Villa Park, their home ground, is one of the most iconic stadiums in English football.",
+    "city_country": "Birmingham, England",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfZ08PzXetXG52LCyCWKnxdMyBcIgyhb6_kqTfgBYz40tDUeHAL7zRRYUk8XlEE7NDNuzopMy_W0aIKVo_-xO-QeCdkz8c2JkSdlVFKCUrx-NAmHfqmFUA7OJGZbBf0FBxiPpJUQN1Jqfb7xTmrNYXc68VIdr9hR3DxhLkEkfFs98_BzMY87VziP-4Vk/s256/Aston%20Villa%20FC256x.png"
+  },
+  {
+    "name": "Bournemouth",
+    "description": "AFC Bournemouth, nicknamed 'The Cherries', have steadily risen through the English football pyramid. Founded in 1899, they reached the Premier League for the first time in 2015 and are known for their attractive style of play.",
+    "city_country": "Bournemouth, England",
+    "logo_url": "https://3.bp.blogspot.com/-yWKZDdaaNyE/WVLmi5PniHI/AAAAAAABJ8w/0loHd_aPwzAi7gRD4Sw4ZVKxSyJgyHD6ACLcBGAs/s1600/AFC%2BBournemouth256x.png"
+  },
+  {
+    "name": "Brentford",
+    "description": "Brentford, founded in 1889, is a club that has experienced a resurgence in recent years, reaching the Premier League for the first time in 2021. Known for their innovative approach to recruitment, they play at the Brentford Community Stadium.",
+    "city_country": "London, England",
+    "logo_url": "https://1.bp.blogspot.com/-IlutIvrSMlY/WCuL6C3fEFI/AAAAAAABBC8/WgvsW4qnI5cXJtUCWUooU0P_YcY3HATSQCLcB/s1600/Brentford%2BFC%2B256x.png"
+  },
+  {
+    "name": "Brighton & Hove Albion",
+    "description": "Brighton & Hove Albion, established in 1901, is known for its vibrant attacking football. After decades in lower divisions, they reached the Premier League in 2017 and have since become a steady force in the top flight.",
+    "city_country": "Brighton, England",
+    "logo_url": "https://2.bp.blogspot.com/-ML42HDhwB7o/WVLneIcVYHI/AAAAAAABJ9M/mDIa0KhdlpM7Zx6zDnG2BlxDHeCpXRMeACLcBGAs/s1600/Brighton%2BHove%2BAlbion256x.png"
+  },
+  {
+    "name": "Burnley",
+    "description": "Burnley FC, founded in 1882, is one of the founding members of the Football League. The club has won two league titles and an FA Cup. Known for their strong defensive play, they call Turf Moor their home.",
+    "city_country": "Burnley, England",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkmTQmEl8i_XFy-f8G3L4u9yJp72NO0kmGeFRm6r7yW4a7DGwucTOUco88-03o8CahpLyA4im6AASvtUmRxmU7EQTHjQnx_njFyuT8FfA-x3LFt-kIoVWFRahLlSPg5qjY9Hqm7vG0kJiSjGoiA87T5wf3nsvC09mKMHBv_n-dY58BvUCxFRYtCn6Qvxk/s256/Burnley%20FC256x.png"
+  },
+  {
+    "name": "Chelsea",
+    "description": "Chelsea, founded in 1905, has become one of the most successful clubs in English football in the modern era. With six league titles, eight FA Cups, and two UEFA Champions League titles, they play at Stamford Bridge in London.",
+    "city_country": "London, England",
+    "logo_url": "https://1.bp.blogspot.com/-KhgIupkyLrw/XsMFbIF4syI/AAAAAAABa6Y/dqLGENOFXFwpCzR9Usd7VKC1CQEOmI6kQCK4BGAsYHg/Chelsea%2BFC256x.png"
+  },
+  {
+    "name": "Crystal Palace",
+    "description": "Crystal Palace, established in 1905, is known for its passionate fanbase and vibrant atmosphere at Selhurst Park. The club has experienced several stints in the top flight and is a mainstay in the Premier League.",
+    "city_country": "London, England",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLha7nCOtHR1sabqXQxaQhbTXNbhmIxpvpKQ9sPpp3A6MW5OzuH8C58xAiQQAITW1zjA0PXCgLH4H8DM2SXktjT0LDKg9VIHhPTNF4eyRAypzkgcfYoP0x3c6hMY386zUOoMZ_lijqiwWPqyrM4voTd0uEuDNU8MVSPe0dsq_YNxemxxL57yOKKjgm/s256/Crystal%20Palace%20FC256x.png"
+  },
+  {
+    "name": "Everton",
+    "description": "Everton, founded in 1878, is one of the oldest and most storied clubs in English football. With nine league titles and five FA Cups, they have a rich history and play their home games at Goodison Park.",
+    "city_country": "Liverpool, England",
+    "logo_url": "https://3.bp.blogspot.com/-WRwr4i-MkFs/WVLqAPzc35I/AAAAAAABJ-E/xEs__Zdmt50RgnSxhuov8b2CiUIZUaypgCLcBGAs/s1600/Everton%2BFC256x.png"
+  },
+  {
+    "name": "Fulham",
+    "description": "Fulham, founded in 1879, is the oldest professional football club in London. Known for their iconic Craven Cottage stadium by the River Thames, they have a long history and a dedicated following.",
+    "city_country": "London, England",
+    "logo_url": "https://4.bp.blogspot.com/-gkHQ3Xti58w/WVJ6n2FIQII/AAAAAAABJ5E/iCbB0SsC_ysAdpFSuqkpgZDgWSndRyBxgCLcBGAs/s1600/Fulham%2BFC256x.png"
+  },
+  {
+    "name": "Liverpool",
+    "description": "Liverpool, founded in 1892, is one of the most successful clubs in world football. With 19 league titles, six European Cups, and a global fanbase, they play at the historic Anfield stadium.",
+    "city_country": "Liverpool, England",
+    "logo_url": "https://3.bp.blogspot.com/-bjorOjEiCU8/WVLrXoDaddI/AAAAAAABJ-s/-a2xpJtXMyEPDckJh-3bmlBJGNxxv1_sACLcBGAs/s1600/Liverpool%2BFC256x.png"
+  },
+  {
+    "name": "Luton Town",
+    "description": "Luton Town, founded in 1885, returned to the top flight for the first time in decades in 2024. Known for their resilience and community spirit, they play at Kenilworth Road, one of the most unique stadiums in English football.",
+    "city_country": "Luton, England",
+    "logo_url": "https://4.bp.blogspot.com/-AAnBb3t9Jt8/W-fObrw0dvI/AAAAAAABSbI/QlEev83VVishRv3CAfHxRayc_Y5aaorywCLcBGAs/s1600/Luton%2BTown%2BFC256x.png"
+  },
+  {
+    "name": "Manchester City",
+    "description": "Manchester City, established in 1880, has become a dominant force in English football in the 21st century. With multiple league titles and an FA Cup, they play at the Etihad Stadium and are known for their attacking prowess.",
+    "city_country": "Manchester, England",
+    "logo_url": "https://4.bp.blogspot.com/-NT4VVrpJ3Tw/WVLr2XNYewI/AAAAAAABJ-4/ef0b2klJTYk9CcGLo6cJq99Brua8PFowQCLcBGAs/s1600/Manchester%2BCity%2BFC256x.png"
+  },
+  {
+    "name": "Manchester United",
+    "description": "Manchester United, founded in 1878, is one of the most iconic and successful football clubs globally. With 20 league titles, 12 FA Cups, and three UEFA Champions League titles, they play at Old Trafford, 'The Theatre of Dreams'.",
+    "city_country": "Manchester, England",
+    "logo_url": "https://1.bp.blogspot.com/-7f3VHMbrWhU/WVLsL45ApnI/AAAAAAABJ_E/AxGokVZoVSELRxKtIjpl9UsUzl-EY4ywACLcBGAs/s1600/Manchester%2BUnited%2BFC256x.png"
+  },
+  {
+    "name": "Newcastle United",
+    "description": "Newcastle United, founded in 1892, is known for its passionate fanbase and St James' Park, one of the largest stadiums in England. The club has won four league titles and six FA Cups in its history.",
+    "city_country": "Newcastle upon Tyne, England",
+    "logo_url": "https://2.bp.blogspot.com/-3sae0h_6ITM/WVLsvTNYb7I/AAAAAAABJ_U/NEHaVnezaowqfxJdfqx6KT8ugbHb7BArgCLcBGAs/s1600/Newcastle%2BUnited%2BFC256x.png"
+  },
+  {
+    "name": "Nottingham Forest",
+    "description": "Nottingham Forest, founded in 1865, is known for its rich history, including back-to-back European Cup victories in 1979 and 1980. They play at the City Ground and are one of the oldest football clubs in the world.",
+    "city_country": "Nottingham, England",
+    "logo_url": "https://3.bp.blogspot.com/-Q1zqWb_9qFM/XKVb1-haMMI/AAAAAAABUzs/Z3GFlTK6Z6w-gR4AJBdko2CIM6B_T8rUwCLcBGAs/s1600/Nottingham%2BForest%2BFC256x.png"
+  },
+  {
+    "name": "Sheffield United",
+    "description": "Sheffield United, founded in 1889, is known for its rich history and Bramall Lane, one of the oldest stadiums still in use. The club has won one league title and four FA Cups.",
+    "city_country": "Sheffield, England",
+    "logo_url": "https://1.bp.blogspot.com/-6uxyYSQBwFg/XkC20XQEnoI/AAAAAAABXZY/0BbIeAonwJIbbNvvi3HV8oIoyo-thppQwCLcBGAsYHQ/s1600/Sheffield%2BUnited%2BFC256x.png"
+  },
+  {
+    "name": "Tottenham Hotspur",
+    "description": "Tottenham Hotspur, established in 1882, is known for its attacking football and a rich history that includes two league titles, eight FA Cups, and a UEFA Cup. They play at the state-of-the-art Tottenham Hotspur Stadium in London.",
+    "city_country": "London, England",
+    "logo_url": "https://4.bp.blogspot.com/-io9r82wxdVA/WVLu3TAU0oI/AAAAAAABKAI/6zas50wyhB0pYhea8FtKP0H716D4iWBwwCLcBGAs/s1600/Tottenham%2BHotspur%2BFC256x.png"
+  },
+  {
+    "name": "West Ham United",
+    "description": "West Ham United, founded in 1895, is known for its strong working-class roots and passionate fanbase. The club has won three FA Cups and a European trophy. They play at the London Stadium.",
+    "city_country": "London, England",
+    "logo_url": "https://1.bp.blogspot.com/-4Vcnt_nLfEo/XredBEj7zFI/AAAAAAABaHk/J-RJIO9eyoM9O7zJV1kFTRRL1Aj2_vO8ACLcBGAsYHQ/s1600/West%2BHam%2BUnited%2BFC256x.png"
+  },
+  {
     "name": "Wolverhampton Wanderers",
     "description": "Established in 1877, Wolverhampton Wanderers were founder members of the Football League along with eleven other clubs. Now known as the English Football League (EFL), it was the world’s first domestic football league.\nWolves, as they are commonly known, have won 17 major trophies in their history, including 11 league titles, four FA Cups and two League Cups.",
     "city_country": "Wolverhampton, England",
-    "logo_url": "https://3.bp.blogspot.com/-2tUzsLrPPvc/WcWnvIqRTrI/AAAAAAABPRc/HKv7l1kDJxIPgSHkDE2WHsJsTDiooMiEACLcBGAs/s1600/Wolverhampton%2BWanderers%2BFC256x.PNG"
-  }
+    "logo_url": "https://2.bp.blogspot.com/-Ur4a84D97-k/WVLm8KzGnsI/AAAAAAABJ88/QVEhSGrZSD0ZsRbqUbtGiTFJI6V7DrPsQCLcBGAs/s1600/Arsenal%2BFC256x.png"
+  },
+  {}
 ]
