@@ -117,6 +117,180 @@
     "name": "Wolverhampton Wanderers",
     "description": "Established in 1877, Wolverhampton Wanderers were founder members of the Football League along with eleven other clubs. Now known as the English Football League (EFL), it was the world’s first domestic football league.\nWolves, as they are commonly known, have won 17 major trophies in their history, including 11 league titles, four FA Cups and two League Cups.",
     "city_country": "Wolverhampton, England",
-    "logo_url": "https://2.bp.blogspot.com/-Ur4a84D97-k/WVLm8KzGnsI/AAAAAAABJ88/QVEhSGrZSD0ZsRbqUbtGiTFJI6V7DrPsQCLcBGAs/s1600/Arsenal%2BFC256x.png"
+    "logo_url": "https://3.bp.blogspot.com/-2tUzsLrPPvc/WcWnvIqRTrI/AAAAAAABPRc/HKv7l1kDJxIPgSHkDE2WHsJsTDiooMiEACLcBGAs/s1600/Wolverhampton%2BWanderers%2BFC256x.PNG"
+  },
+  {
+    "name": "Atlanta United FC",
+    "description": "Founded in 2014 and starting MLS play in 2017, Atlanta United quickly became a powerhouse, winning the MLS Cup in 2018. Known for their passionate fanbase and high-octane style, they play at the Mercedes-Benz Stadium.",
+    "city_country": "Atlanta, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Atlanta_United_FC_logo.svg"
+  },
+  {
+    "name": "Austin FC",
+    "description": "Austin FC, founded in 2018, joined MLS in 2021 as the league's first Texas team in nearly two decades. Known for their vibrant green colors and strong community support, they play at Q2 Stadium.",
+    "city_country": "Austin, USA",
+    "logo_url": "https://3.bp.blogspot.com/-qUVHU4ivssk/XEpLRIkd4YI/AAAAAAABT8s/2i9FWaJEJYo4iCsUbAQHY5cOZGT46R_2gCLcBGAs/s1600/Austin%2BFC256x.png"
+  },
+  {
+    "name": "Charlotte FC",
+    "description": "Charlotte FC, established in 2019, became an MLS expansion team in 2022. They quickly gained a strong following in North Carolina and play their home games at Bank of America Stadium.",
+    "city_country": "Charlotte, USA",
+    "logo_url": "https://1.bp.blogspot.com/-xoHFtJBiEsQ/XxryEnO1FZI/AAAAAAABfQU/QcSy3F2I_LU1wAgYTrICcL1ZG0EIuZW_gCLcBGAsYHQ/s256/Charotte%2BFC256x.png"
+  },
+  {
+    "name": "Chicago Fire FC",
+    "description": "Founded in 1997, Chicago Fire FC has a storied history in MLS, including an MLS Cup win in their inaugural season (1998). The club plays its home matches at Soldier Field, a historic venue in American sports.",
+    "city_country": "Chicago, USA",
+    "logo_url": "https://1.bp.blogspot.com/-sdGrC6f8YGg/YOHT541EBJI/AAAAAAABkKc/1-3ZAejZMQAgFT6GGBSW0VAixOALC6_SACLcBGAsYHQ/s256/Chicago%2BFire%2BFC256x.png"
+  },
+  {
+    "name": "FC Cincinnati",
+    "description": "FC Cincinnati joined MLS in 2019 after a successful run in the USL. The club is known for its passionate fanbase and plays its home games at the newly built TQL Stadium.",
+    "city_country": "Cincinnati, USA",
+    "logo_url": "https://3.bp.blogspot.com/-xDH52JpNEdI/W-tvq1XqiZI/AAAAAAABSng/a_VNuuyOgMop7NQ4zUslYwgwOorsC1FDACLcBGAs/s1600/FC%2BCincinnati256x.png"
+  },
+  {
+    "name": "Colorado Rapids",
+    "description": "One of the original MLS teams, Colorado Rapids was founded in 1995 and won the MLS Cup in 2010. Known for their rugged style of play, they host their games at Dick's Sporting Goods Park.",
+    "city_country": "Commerce City, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/89/Colorado_Rapids_logo.svg"
+  },
+  {
+    "name": "Columbus Crew",
+    "description": "Columbus Crew, a founding MLS club, was established in 1994. They have won two MLS Cups, most recently in 2020. The team plays its home games at Lower.com Field, a state-of-the-art stadium.",
+    "city_country": "Columbus, USA",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI101FWZ2gOmZFOMdP1Ef8ntUZ-b2TfiSiq9vs9B1h6HVlZJLFAAmVqKCDC8P1yTHWsJgJIhPT80H6JXzdItlnmhD1gtDs1l2DUHgBuXsV2X2mV_cBVcn_DnLLiGarHxmIKI2mCHwUTmCmZfWegRsfBu104IYGITHovcKgV2do7ul64mJwTitLRDfe1Uk/s512/CC.png"
+  },
+  {
+    "name": "D.C. United",
+    "description": "D.C. United, founded in 1995, is one of the most successful clubs in MLS history, with four MLS Cups. Known for their tradition and passionate fanbase, they play at Audi Field in the nation's capital.",
+    "city_country": "Washington, D.C., USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/6d/D.C._United_logo.svg"
+  },
+  {
+    "name": "FC Dallas",
+    "description": "FC Dallas, founded in 1995, is known for its strong youth academy, producing top talent for MLS and beyond. The club plays its home games at Toyota Stadium in Frisco, Texas.",
+    "city_country": "Frisco, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/0/05/FC_Dallas_logo.svg"
+  },
+  {
+    "name": "Houston Dynamo FC",
+    "description": "Houston Dynamo, founded in 2005, quickly established themselves in MLS, winning back-to-back MLS Cups in 2006 and 2007. They play at Shell Energy Stadium and are known for their strong defensive play.",
+    "city_country": "Houston, USA",
+    "logo_url": "https://1.bp.blogspot.com/-9TOeL8okNwQ/X7cS2vGXDZI/AAAAAAABhWI/MqNPmDXip0kY_yNhNQtcMf3WTNEUr2o9QCLcBGAsYHQ/s256/Houston%2BDynamo%2BFC256x.png"
+  },
+  {
+    "name": "Inter Miami CF",
+    "description": "Inter Miami CF, co-owned by David Beckham, joined MLS in 2020. The club quickly gained attention for its ambitious plans and star signings like Lionel Messi. They play at DRV PNK Stadium in Fort Lauderdale, Florida.",
+    "city_country": "Fort Lauderdale, USA",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5I_S87hLKIZZ14aVaKAY1lTR90yxrm89YP95ATn0-ZMbFZSTVyypf-byskhRCNRtnJgniv_ujW2j6DdqPshwEld3sLSb7ObNPLD15m33Gygrgh_8evNDS32v8ndt1sIlnJm9wYSZdVdMrcEQ9hYPJGeLkxrNqayWiJx8f89FtU6DPqkN_wQPz_ZGnL1w/s256/Inter%20de%20Miami%20CF256x.png"
+  },
+  {
+    "name": "LA Galaxy",
+    "description": "LA Galaxy, one of the most successful MLS clubs, was founded in 1994. They have won five MLS Cups and are known for their star-studded rosters, including legends like David Beckham. The club plays at Dignity Health Sports Park.",
+    "city_country": "Carson, USA",
+    "logo_url": "https://1.bp.blogspot.com/-rw3Q1cjaJr0/WVw7vbP_Z-I/AAAAAAABLn4/6UhSm8Hr6vocHbztnIYe3ICUHbSHx2YwQCLcBGAs/s1600/Los%2BAngeles%2BGalaxy256x.png"
+  },
+  {
+    "name": "Los Angeles FC",
+    "description": "LAFC, established in 2014 and joining MLS in 2018, quickly became a force in the league, winning the Supporters' Shield in 2019. Known for their dynamic style, they play at Banc of California Stadium.",
+    "city_country": "Los Angeles, USA",
+    "logo_url": "https://4.bp.blogspot.com/-uPHmDDkUfo0/WVxFZ47zfJI/AAAAAAABLoo/Us3bNtO5-noWikIoEYT6Z_VzrQEfPsExwCLcBGAs/s1600/Los%2BAngeles%2BFC256x.png"
+  },
+  {
+    "name": "Minnesota United FC",
+    "description": "Minnesota United, known as 'The Loons,' joined MLS in 2017. The club is known for its dedicated fanbase and plays at Allianz Field, a modern stadium designed to enhance the matchday experience.",
+    "city_country": "Saint Paul, USA",
+    "logo_url": "https://1.bp.blogspot.com/-jDJHENSLqJw/X4j4P9Ce8yI/AAAAAAABg8A/nrv9CEK6ZTIKdI4qX9RXLcgw0UlsCRALACLcBGAsYHQ/s256/Minnesota%2BUnited%2BFC256x.png"
+  },
+  {
+    "name": "CF Montréal",
+    "description": "CF Montréal, founded in 2010 as the Montreal Impact, joined MLS in 2012. Known for their passionate fans and bilingual culture, they play at Stade Saputo and have a strong presence in Canadian soccer.",
+    "city_country": "Montreal, Canada",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIf-WG9VO2LYAL-WCY3PMmzDLawi1CdRZSo2uAdN6grXXgruSTr5f4T2cKZypZ03evDKwZHHHAvJZxViY4uGMgGe_nx8JZ3B-oK-gu-Mt0nypzjHzR2E1ScfLHwk_vuYqQodA30c7iC-wpvn-e-MQhe4CGCykrC7DLdXtF7dmveZH3ceB-euaPgRBi/s256/CF%20Montreal256x.png"
+  },
+  {
+    "name": "Nashville SC",
+    "description": "Nashville SC joined MLS in 2020 and quickly made an impact with their strong defensive play. The club has a growing fanbase and plays its home games at Geodis Park, the largest soccer-specific stadium in the U.S.",
+    "city_country": "Nashville, USA",
+    "logo_url": "https://2.bp.blogspot.com/-6ecHZ6F3mXA/XG9W98VWquI/AAAAAAABUgs/b5M2CZzV5KgQvu-Y8-uRo81oM0-QUA_eQCLcBGAs/s1600/Nashville%2BSC256x.png"
+  },
+  {
+    "name": "New England Revolution",
+    "description": "New England Revolution, one of the founding MLS clubs, was established in 1994. Known for their consistency and competitiveness, they play at Gillette Stadium and have a strong tradition in American soccer.",
+    "city_country": "Foxborough, USA",
+    "logo_url": "https://1.bp.blogspot.com/-R2Jz_SGJpww/YYSknMvATmI/AAAAAAABlqs/dR2beN2llsok9NKETp5iEYtJpqAOM9fyACLcBGAsYHQ/s256/New%2BEngland%2BRevolution256x.png"
+  },
+  {
+    "name": "New York City FC",
+    "description": "New York City FC, founded in 2013, joined MLS in 2015 as the league's 20th team. The club has quickly become a contender, winning the MLS Cup in 2021. They play at Yankee Stadium, sharing with the New York Yankees.",
+    "city_country": "New York, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/ae/New_York_City_FC_badge.svg"
+  },
+  {
+    "name": "New York Red Bulls",
+    "description": "New York Red Bulls, one of the original MLS teams, was founded in 1994. Known for their high-energy style of play and strong youth development, they play at Red Bull Arena in Harrison, New Jersey.",
+    "city_country": "Harrison, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/New_York_Red_Bulls_logo.svg"
+  },
+  {
+    "name": "Orlando City SC",
+    "description": "Orlando City SC, founded in 2010, joined MLS in 2015. Known for their passionate fanbase and vibrant atmosphere at Exploria Stadium, they have quickly become one of the most popular clubs in the league.",
+    "city_country": "Orlando, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a8/Orlando_City_2014.svg"
+  },
+  {
+    "name": "Philadelphia Union",
+    "description": "Philadelphia Union, established in 2008, joined MLS in 2010. Known for their strong defensive play and tactical discipline, they play at Subaru Park, located on the banks of the Delaware River.",
+    "city_country": "Chester, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/8d/Philadelphia_Union_2019_logo.svg"
+  },
+  {
+    "name": "Portland Timbers",
+    "description": "Portland Timbers, founded in 2009, joined MLS in 2011 and quickly became one of the league's most successful teams, winning the MLS Cup in 2015. Known for their passionate fans, they play at Providence Park.",
+    "city_country": "Portland, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Portland_Timbers_logo.svg"
+  },
+  {
+    "name": "Real Salt Lake",
+    "description": "Real Salt Lake, founded in 2004, won their first MLS Cup in 2009. Known for their strong team chemistry and tactical discipline, they play at America First Field in Sandy, Utah.",
+    "city_country": "Sandy, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/4a/Real_Salt_Lake_2021_logo.svg"
+  },
+  {
+    "name": "San Jose Earthquakes",
+    "description": "San Jose Earthquakes, one of the original MLS clubs, was founded in 1994. Known for their two MLS Cup wins (2001, 2003) and passionate fans, they play at PayPal Park in San Jose.",
+    "city_country": "San Jose, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/2/2e/San_Jose_Earthquakes_logo_%282014%29.svg"
+  },
+  {
+    "name": "Seattle Sounders FC",
+    "description": "Seattle Sounders, founded in 2007 and joining MLS in 2009, are known for their consistency and success, winning multiple MLS Cups and Supporters' Shields. They play at Lumen Field, sharing with the NFL's Seattle Seahawks.",
+    "city_country": "Seattle, USA",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2J87Nq6yPRxAJRQOZdLhDrZKzNhV9bX0lfkj4xgdjjsAg9mrxNVU8h2JOsAugheyH1mP8zliV2b2QlknsKx9D0fIaubIxk_qR-cA2NHvZbZ6h7amSa36vOCZqJmayKHq58CZNays3qqS-16APaAEceKk0cR35IwjEglyGTMWwynlcLn1sQJxD1QSs_v8/s256/Seattle%20Sounders%20FC256x.png"
+  },
+  {
+    "name": "Sporting Kansas City",
+    "description": "Sporting Kansas City, founded in 1995 as the Kansas City Wiz, has won two MLS Cups and three U.S. Open Cups. Known for their strong community ties and innovative approach, they play at Children's Mercy Park.",
+    "city_country": "Kansas City, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Sporting_Kansas_City_logo.svg"
+  },
+  {
+    "name": "St. Louis City SC",
+    "description": "St. Louis City SC, established in 2019, joined MLS in 2023 as one of the league's newest expansion teams. Known for their deep-rooted soccer culture, they play at CityPark, a new state-of-the-art stadium.",
+    "city_country": "St. Louis, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a8/St._Louis_City_SC_logo.svg"
+  },
+  {
+    "name": "Toronto FC",
+    "description": "Toronto FC, founded in 2005, became the first Canadian team in MLS and has since established themselves as one of the league's premier clubs, winning the MLS Cup in 2017. They play at BMO Field.",
+    "city_country": "Toronto, Canada",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/b/b6/Toronto_FC_Logo_2020.svg"
+  },
+  {
+    "name": "Vancouver Whitecaps FC",
+    "description": "Vancouver Whitecaps, founded in 2009, joined MLS in 2011 as the second Canadian team in the league. Known for their dynamic style of play, they host their matches at BC Place, a multi-purpose stadium in Vancouver.",
+    "city_country": "Vancouver, Canada",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Vancouver_Whitecaps_FC_logo.svg"
   }
 ]
