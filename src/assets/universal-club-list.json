@@ -340,5 +340,89 @@
     "description": "Valour FC, founded in 2018, represents Winnipeg in the CPL. Known for their competitive play and strong fan support.",
     "city_country": "Winnipeg, Canada",
     "logo_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgakPfPZ3FvVzzKdvdPyogrZLueTkOlCnxjK7AhtAws0qDkn6U4i2QVkfYh_0dK8CFr7zsqSTXchJwSxv2IW6qfdXjVF-bTbaoiQP0sCmOZlK7HQio32WsPtdOxB0QpdwUj651-J6JiIiMm9RHtHOHmCqu33f2mEzHOm_vItvtoABU56ZVg0fra-Z05=s256"
+  },
+  {
+    "name": "Angel City FC",
+    "description": "Angel City FC, founded in 2021, is a Los Angeles-based team known for its strong community presence and support from Hollywood celebrities.",
+    "city_country": "Los Angeles, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Angel_City_FC_logo.svg/108px-Angel_City_FC_logo.svg.png?20231030034136"
+  },
+  {
+    "name": "Bay FC",
+    "description": "Bay FC, founded in 2024, is a new team based in the San Francisco Bay Area. They aim to make a significant impact in their debut season.",
+    "city_country": "San Francisco Bay Area, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bay_FC_logo.svg/355px-Bay_FC_logo.svg.png"
+  },
+  {
+    "name": "Chicago Red Stars",
+    "description": "Chicago Red Stars, established in 2009, is one of the founding teams of the NWSL. Known for their competitive spirit and dedicated fanbase.",
+    "city_country": "Chicago, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Chicago_Red_Stars_logo.svg/288px-Chicago_Red_Stars_logo.svg.png?20210602002236"
+  },
+  {
+    "name": "Houston Dash",
+    "description": "Houston Dash, founded in 2014, is known for its dynamic play and passionate support.",
+    "city_country": "Houston, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Houston_Dash_2020_logo.svg/163px-Houston_Dash_2020_logo.svg.png?20201122102640"
+  },
+  {
+    "name": "Kansas City Current",
+    "description": "Kansas City Current, rebranded from Utah Royals in 2021, is a competitive team known for its strong community ties and vibrant support.",
+    "city_country": "Kansas City, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Kansas_City_Current_logo.svg/207px-Kansas_City_Current_logo.svg.png?20221013133411"
+  },
+  {
+    "name": "NJ/NY Gotham FC",
+    "description": "NJ/NY Gotham FC, formerly Sky Blue FC, was rebranded in 2021. They are known for their competitive edge and dedication to their fanbase.",
+    "city_country": "Harrison, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/NJ_NY_Gotham_FC_logo.svg/138px-NJ_NY_Gotham_FC_logo.svg.png?20210407212326"
+  },
+  {
+    "name": "North Carolina Courage",
+    "description": "North Carolina Courage, founded in 2017, is one of the most successful teams in NWSL history, having won multiple championships.",
+    "city_country": "Cary, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/North_Carolina_Courage_logo.svg/233px-North_Carolina_Courage_logo.svg.png?20200101015603"
+  },
+  {
+    "name": "Orlando Pride",
+    "description": "Orlando Pride, founded in 2015, is known for its energetic play and strong support from the local community.",
+    "city_country": "Orlando, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Orlando_Pride_logo.svg/300px-Orlando_Pride_logo.svg.png?20200101011450"
+  },
+  {
+    "name": "Portland Thorns FC",
+    "description": "Portland Thorns FC, established in 2013, is known for its passionate fanbase and success in the league, including multiple championships.",
+    "city_country": "Portland, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Portland_Thorns_logo.svg/124px-Portland_Thorns_logo.svg.png?20230507062852"
+  },
+  {
+    "name": "Racing Louisville FC",
+    "description": "Racing Louisville FC, founded in 2021, is a newer team making waves in the NWSL. Known for their strong debut season.",
+    "city_country": "Louisville, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Racing_Louisville_FC_logo.svg/200px-Racing_Louisville_FC_logo.svg.png?20200713174535"
+  },
+  {
+    "name": "San Diego Wave FC",
+    "description": "San Diego Wave FC, established in 2022, is one of the latest additions to the NWSL. Known for their vibrant play and enthusiastic fanbase.",
+    "city_country": "San Diego, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/San_Diego_Wave_FC_logo.svg/163px-San_Diego_Wave_FC_logo.svg.png?20230507103742"
+  },
+  {
+    "name": "Seattle Reign FC",
+    "description": "Seattle Reign FC, founded in 2013 and rebranded as OL Reign in 2020, is known for its strong performances and fan engagement.",
+    "city_country": "Seattle, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/Seattle_Reign_FC_logo_2024.png?20240112000409"
+  },
+  {
+    "name": "Utah Royals FC",
+    "description": "Utah Royals FC, in 2023, Real Salt Lake owners Ryan Smith and David Blitzer reestablished the team. They were known for their competitive play and strong community presence.",
+    "city_country": "Salt Lake City, USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/8/87/Utah_Royals_FC_2023_logo.png?20230313001129"
+  },
+  {
+    "name": "Washington Spirit",
+    "description": "Washington Spirit, founded in 2013, is known for its passionate fanbase and competitive play.",
+    "city_country": "Washington, D.C., USA",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Washington_Spirit_logo.svg/236px-Washington_Spirit_logo.svg.png?20231125073615"
   }
 ]
