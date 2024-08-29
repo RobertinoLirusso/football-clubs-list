@@ -7,7 +7,6 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 16px;
-    background-color:snow;
 }
 
 
@@ -66,4 +65,11 @@ mat-form-field {
     width: 100%;
   }
 
+  
+  .paginator-container {
+    display: flex;
+    justify-content: center; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+  }
   

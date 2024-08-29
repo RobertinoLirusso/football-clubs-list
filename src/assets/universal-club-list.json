@@ -424,5 +424,113 @@
     "description": "Washington Spirit, founded in 2013, is known for its passionate fanbase and competitive play.",
     "city_country": "Washington, D.C., USA",
     "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Washington_Spirit_logo.svg/236px-Washington_Spirit_logo.svg.png?20231125073615"
+  },
+  {
+    "name": "FC Augsburg",
+    "description": "FC Augsburg, also known as FCA, is a club from Augsburg, Germany. They are known for their strong defensive play and passionate fan base.",
+    "city_country": "Augsburg, Germany",
+    "logo_url": "https://3.bp.blogspot.com/-7hYLJPL8t80/WVUGXaX6nYI/AAAAAAABKaE/yn5Uy_nl4LIbJhRIgDBmRUeTFsPOBl97ACLcBGAs/s1600/FC%2BAugsburg256x.png"
+  },
+  {
+    "name": "Bayer Leverkusen",
+    "description": "Bayer Leverkusen, often referred to as 'Die Werkself', is known for its dynamic and attacking style of play. They are based in Leverkusen, Germany.",
+    "city_country": "Leverkusen, Germany",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicfwQ2fVwgSXx6rPcrfuIRCt6P15wj1UE2j310uUFPQ0t8QIQrZJMjV8YFQp-W7Jw5nXhCa9SIcjR73iDJVgn8roroDM5eie9nlOxe2Whhe1opDg3yFnIfeG3sHipndnIT04Q7oTW6y9jUuDrR-k1R4mY0XOPtA1H_n8XlRi6ozmt4O40boin5cUQ2/s256/Bayer%2004%20Leverkusen256x.png"
+  },
+  {
+    "name": "Bayern Munich",
+    "description": "Bayern Munich, or 'Die Roten', is one of the most successful clubs in Germany and Europe, known for its dominant performances and a strong squad.",
+    "city_country": "Munich, Germany",
+    "logo_url": "https://3.bp.blogspot.com/-Sv4rY162krk/WVDEoCDr6qI/AAAAAAABJzw/HChtLort5gUQE7tSfiC6229vZEx5Kss3ACLcBGAs/s1600/FC%2BBayern%2BMunchen256x.png"
+  },
+  {
+    "name": "VfL Bochum",
+    "description": "VfL Bochum, known simply as Bochum, is recognized for its strong home support and competitive spirit. They are based in Bochum, Germany.",
+    "city_country": "Bochum, Germany",
+    "logo_url": "https://4.bp.blogspot.com/-brKX4d3wpsI/WVTy_o-e0eI/AAAAAAABKXg/PMHcmotyvowFqAVCSnsaWKF_W9tIFFkMwCLcBGAs/s1600/VfL%2BBochum%2B1848256x.png"
+  },
+  {
+    "name": "Borussia Mönchengladbach",
+    "description": "Borussia Mönchengladbach, often called 'Gladbach', is known for its historic success and attacking football. They are based in Mönchengladbach, Germany.",
+    "city_country": "Mönchengladbach, Germany",
+    "logo_url": "https://3.bp.blogspot.com/-8FLsdZkQT2M/WVUFeUOD1qI/AAAAAAABKZo/OXT3BGBnugkpDhxX0fFnftBfp_9nI-IvQCLcBGAs/s1600/Borussia%2BMonchengladbach256x.png"
+  },
+  {
+    "name": "Borussia Dortmund",
+    "description": "Borussia Dortmund, or 'BVB', is famous for its passionate fans and dynamic attacking play. They are a major force in German football.",
+    "city_country": "Dortmund, Germany",
+    "logo_url": "https://1.bp.blogspot.com/-keCxvpOgy3c/WVUFAdmPbBI/AAAAAAABKZc/nLrTzyx9S5k38QUHlQAwfIOttPHQ_1KbQCLcBGAs/s1600/Borussia%2BDortmund256x.png"
+  },
+  {
+    "name": "Eintracht Frankfurt",
+    "description": "Eintracht Frankfurt, known as 'Die Adler' (The Eagles), is celebrated for its strong performances and rich history in German football.",
+    "city_country": "Frankfurt, Germany",
+    "logo_url": "https://1.bp.blogspot.com/-_JvDMwI5qWM/WVUF_vQc0fI/AAAAAAABKZ4/TqHYevWyIKIj6iiPBADotcljCsg6uZkuACLcBGAs/s1600/Eintracht%2BFrankfurt256x.png"
+  },
+  {
+    "name": "SC Freiburg",
+    "description": "SC Freiburg is known for its strong team spirit and consistent performances. They are a respected club based in Freiburg, Germany.",
+    "city_country": "Freiburg, Germany",
+    "logo_url": "https://1.bp.blogspot.com/-j1oEHP2fI4k/WVUIdz19BkI/AAAAAAABKbA/1nlGTBNp1OAS8sJOl2yl_GhYJLg5muw3ACLcBGAs/s1600/Sport%2BClub%2BFreiburg256x.png"
+  },
+  {
+    "name": "1. FC Heidenheim",
+    "description": "1. FC Heidenheim is a club known for its ambitious growth and strong performances in the Bundesliga. They are based in Heidenheim, Germany.",
+    "city_country": "Heidenheim, Germany",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/a/a8/1._FC_Heidenheim_1846_logo.svg"
+  },
+  {
+    "name": "TSG Hoffenheim",
+    "description": "TSG Hoffenheim, often just called Hoffenheim, is known for its modern approach and investment in youth development. They are based in Hoffenheim, Germany.",
+    "city_country": "Hoffenheim, Germany",
+    "logo_url": "https://3.bp.blogspot.com/-SMaG2JpsoXA/WVUDq7FldFI/AAAAAAABKZA/faerFxxtSNcy8g4-XfQV8R5hxWnX69ckQCLcBGAs/s1600/1899%2BHoffenheim256x.png"
+  },
+  {
+    "name": "Holstein Kiel",
+    "description": "Holstein Kiel is known for its strong performances in the lower divisions and its ambitious goals. They are a club based in Kiel, Germany.",
+    "city_country": "Kiel, Germany",
+    "logo_url": "https://blogger.googleusercontent.com/img/a/AVvXsEg3qgaLV9DJ5RYgYYvw7jUgTjxrvcmpMiXKCFmFV7D3XaypmJznprZBrr0Wqsz9IPrcIAbjop0svAB1jt6f_8Y5WhPkt8sjy6BsduOGRi6CridD4BImM1kiTypKDNvXaN4w-ucnqpnGukB29hYvE6t_WTpryLDCnquP0rEHwrwRfRf7oN2udDVMj3pd=s256"
+  },
+  {
+    "name": "RB Leipzig",
+    "description": "RB Leipzig, known for its rapid rise in German football, is a club with a strong emphasis on youth development and attacking football.",
+    "city_country": "Leipzig, Germany",
+    "logo_url": "https://1.bp.blogspot.com/-49NJ3ILEcIA/XwO5X0nyeTI/AAAAAAABelM/rnOcxPTUxAYJxlUiWcVCjSqvk_oqPdJxACK4BGAsYHg/s256/RB%2BLeipzig256x.png"
+  },
+  {
+    "name": "Mainz 05",
+    "description": "Mainz 05 is known for its solid performances and strong local support. They are a club based in Mainz, Germany.",
+    "city_country": "Mainz, Germany",
+    "logo_url": "https://2.bp.blogspot.com/-1OV_n_vKPEI/XDkB0nWRf7I/AAAAAAABTuE/yB85QtheVLgNJHUiheES_rkQF3RbZrOFwCLcBGAs/s1600/1%2BFSV%2BMainz%2B05256x.png"
+  },
+  {
+    "name": "FC St. Pauli",
+    "description": "FC St. Pauli, often known as 'St. Pauli', is famous for its passionate fan base and unique culture. They are based in Hamburg, Germany.",
+    "city_country": "Hamburg, Germany",
+    "logo_url": "https://4.bp.blogspot.com/-1-MfNlSpHh4/WVTtKpWQzRI/AAAAAAABKVk/264aP5IK1vw7XITNCnOmHdkg_0ry46jZgCLcBGAs/s1600/FC%2BSt%2BPauli256x.png"
+  },
+  {
+    "name": "VfB Stuttgart",
+    "description": "VfB Stuttgart, often called 'VfB', is known for its strong footballing tradition and passionate supporters. They are based in Stuttgart, Germany.",
+    "city_country": "Stuttgart, Germany",
+    "logo_url": "https://4.bp.blogspot.com/-ZFGEo6yGlEI/WVUBGiFJhOI/AAAAAAABKYM/YNUVuw_FloY1Qde0Jr0AOS0e0lx3SfDhwCLcBGAs/s1600/VfB%2BStuttgart256x.png"
+  },
+  {
+    "name": "Union Berlin",
+    "description": "Union Berlin is known for its strong fan base and competitive performances in recent years. They are based in Berlin, Germany.",
+    "city_country": "Berlin, Germany",
+    "logo_url": "https://2.bp.blogspot.com/-IB3U25zqqiQ/WVTp3XundmI/AAAAAAABKUU/bevuAtUC2Qo89yPvglO9wDv-CThGrB1hACLcBGAs/s1600/1%2BFC%2BUnion%2BBerlin256x.png"
+  },
+  {
+    "name": "Werder Bremen",
+    "description": "Werder Bremen, known as 'Die Werderaner', is recognized for its historical success and strong performances in the Bundesliga.",
+    "city_country": "Bremen, Germany",
+    "logo_url": "https://2.bp.blogspot.com/-aq5ndIfqaUo/WVUJwM5Qq6I/AAAAAAABKbg/u-zUP5GJswI_DnSzvQBK6OJZ1Eyd7tXUQCLcBGAs/s1600/Werder%2BBremen256x.png"
+  },
+  {
+    "name": "VfL Wolfsburg",
+    "description": "VfL Wolfsburg, known as 'Die Wölfe', is a club with a strong focus on competitive football and recent success in the Bundesliga.",
+    "city_country": "Wolfsburg, Germany",
+    "logo_url": "https://3.bp.blogspot.com/-9MTJG8YYu0c/WVUJKdigqdI/AAAAAAABKbQ/W7sfgFsTwNkMwOFPF06gkp7RhlsC6xBwACLcBGAs/s1600/VfL%2BWolfsburg256x.png"
   }
 ]

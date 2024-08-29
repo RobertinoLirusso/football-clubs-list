@@ -10,10 +10,15 @@
 </div>
 
 <div class="container responsive-grid">
-  <mat-card class="club-card" appearance="outlined" *ngFor="let club of filteredClubs" (click)="openClubDetailModal(club)">
+  <mat-card class="club-card" appearance="outlined" *ngFor="let club of pagedClubs" (click)="openClubDetailModal(club)">
     <img mat-card-image [src]="club.logo_url" alt="club_logo" class="logo">
-      <mat-card-header>
-        <mat-card-title class="title">{{club.name}}</mat-card-title>
-      </mat-card-header>
-    </mat-card>
-  </div>
+    <mat-card-header>
+      <mat-card-title class="title">{{club.name}}</mat-card-title>
+    </mat-card-header>
+  </mat-card>
+</div>
+
+<div *ngIf="filteredClubs.length > 0" class="paginator-container">
+  <mat-paginator [length]="filteredClubs.length" [pageSize]="30" [pageSizeOptions]="[30, 60, 90]" (page)="onPageChange($event)">
+  </mat-paginator>
+</div>

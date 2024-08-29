@@ -1,20 +1,27 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { Club } from '../interfaces/club';
 import { ClubService } from '../services/club.service';
 import { MatDialog } from '@angular/material/dialog';
 import { ModalComponent } from '../modal/modal.component';
+import { MatPaginator, PageEvent } from '@angular/material/paginator';
 
 @Component({
   selector: 'app-club-list',
   templateUrl: './club-list.component.html',
-  styleUrl: './club-list.component.css'
+  styleUrls: ['./club-list.component.css']  // Asegúrate de que esto sea `styleUrls`
 })
 export class ClubListComponent implements OnInit {
 
   clubs: Club[] = [];
   filteredClubs: Club[] = [];
+  pagedClubs: Club[] = [];  // Clubes para la página actual
   noResults: boolean = false;
   alphabet: string[] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+
+  pageSize: number = 30;  // Tamaño de página por defecto
+  currentPage: number = 0;  // Página actual
+
+  @ViewChild(MatPaginator) paginator!: MatPaginator;
 
   constructor(
     private clubService: ClubService,
@@ -22,16 +29,20 @@ export class ClubListComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-      this.clubService.getClubs().subscribe((data) =>{
-        this.clubs = data;
-        this.sortClubsAZ()
-        this.filteredClubs = [...this.clubs];
-        this.noResults = false;  
-      });
+    this.getClubs();
+  }
+
+  getClubs() {
+    this.clubService.getClubs().subscribe((data) =>{
+      this.clubs = data;
+      this.sortClubsAZ();
+      this.filteredClubs = [...this.clubs];
+      this.updatePagedClubs();  // Actualiza los clubes paginados
+      this.noResults = false;  
+    });
   }
 
   openClubDetailModal(club: Club): void {
-    
     const dialogRef = this.dialog.open(ModalComponent, {
       width: '400px',
       data: club,
@@ -39,8 +50,8 @@ export class ClubListComponent implements OnInit {
     });
 
     dialogRef.afterClosed().subscribe(result => {
+      // Lógica después de cerrar el modal (si es necesario)
     });
-
   }
 
   onSearch(event: any): void {
@@ -50,7 +61,9 @@ export class ClubListComponent implements OnInit {
       club.city_country?.toLowerCase().includes(searchTerm) ||
       club.description?.toLowerCase().includes(searchTerm)
     );
-    this.noResults = this.filteredClubs.length === 0 && searchTerm.length > 0; 
+    this.noResults = this.filteredClubs.length === 0 && searchTerm.length > 0;
+    this.currentPage = 0;  // Resetea a la primera página después de una búsqueda
+    this.updatePagedClubs();  // Actualiza los clubes paginados
   } 
 
   sortClubsAZ(): void {
@@ -66,6 +79,19 @@ export class ClubListComponent implements OnInit {
       club.name?.toUpperCase().startsWith(letter)
     );
     this.noResults = this.filteredClubs.length === 0;
+    this.currentPage = 0;  // Resetea a la primera página después de un filtrado por letra
+    this.updatePagedClubs();  // Actualiza los clubes paginados
   }
-  
+
+  onPageChange(event: PageEvent): void {
+    this.pageSize = event.pageSize;
+    this.currentPage = event.pageIndex;
+    this.updatePagedClubs();
+  }
+
+  updatePagedClubs(): void {
+    const startIndex = this.currentPage * this.pageSize;
+    const endIndex = startIndex + this.pageSize;
+    this.pagedClubs = this.filteredClubs.slice(startIndex, endIndex);
+  }
 }
