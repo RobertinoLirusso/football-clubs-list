@@ -21,7 +21,11 @@ export class ClubService {
   getClubs(): Observable<Club[]> {
     return this.http.get<any>(this.jsonUrl, { headers: this.headers })
       .pipe(
-        map(response => response.record) // Extrae el array de la propiedad `record`
+        map(response => response.record) 
       );
+  }
+  
+  refreshClubs(): Observable<any> {
+    return this.getClubs();
   }
 }

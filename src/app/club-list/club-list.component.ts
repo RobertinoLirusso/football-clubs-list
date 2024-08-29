@@ -30,7 +30,8 @@ export class ClubListComponent implements OnInit {
 
   ngOnInit(): void {
     this.getClubs();
-  }
+    setInterval(() => this.refreshClubs(), 60000); // Actualiza cada 60 segundos
+    }
 
   getClubs() {
     this.clubService.getClubs().subscribe((data) =>{
@@ -39,6 +40,12 @@ export class ClubListComponent implements OnInit {
       this.filteredClubs = [...this.clubs];
       this.updatePagedClubs();  // Actualiza los clubes paginados
       this.noResults = false;  
+    });
+  }
+
+  refreshClubs(): void {
+    this.clubService.refreshClubs().subscribe(data => {
+      this.clubs = data;
     });
   }
 
