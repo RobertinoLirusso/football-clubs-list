@@ -50,7 +50,6 @@ export class ClubListComponent implements OnInit {
     });
 
     dialogRef.afterClosed().subscribe(result => {
-      // Lógica después de cerrar el modal (si es necesario)
     });
   }
 
