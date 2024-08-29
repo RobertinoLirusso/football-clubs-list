@@ -532,5 +532,125 @@
     "description": "VfL Wolfsburg, known as 'Die Wölfe', is a club with a strong focus on competitive football and recent success in the Bundesliga.",
     "city_country": "Wolfsburg, Germany",
     "logo_url": "https://3.bp.blogspot.com/-9MTJG8YYu0c/WVUJKdigqdI/AAAAAAABKbQ/W7sfgFsTwNkMwOFPF06gkp7RhlsC6xBwACLcBGAs/s1600/VfL%2BWolfsburg256x.png"
+  },
+  {
+    "name": "Atalanta",
+    "description": "Atalanta Bergamasca Calcio, often known simply as Atalanta, is celebrated for its attacking style and its strong performances in European competitions in recent years.",
+    "city_country": "Bergamo, Italy",
+    "logo_url": "https://3.bp.blogspot.com/-VcsGe2AY1QA/WVd2eufGk8I/AAAAAAABK38/6wa7FqyuzWME1n_-eehCNMlXjtt7b3YswCLcBGAs/s1600/Atalanta%2BBergamasca%2BCalcio256x.png"
+  },
+  {
+    "name": "Bologna",
+    "description": "Bologna FC 1909 is one of the oldest Italian clubs, with a rich history and several domestic titles. The club is known for its historic rivalry with other northern Italian teams.",
+    "city_country": "Bologna, Italy",
+    "logo_url": "https://2.bp.blogspot.com/-oFbjDsPaFg4/WzgcOBHkogI/AAAAAAABRRk/y3hyTBXGVdAoRTHpch91fKopMJ0FI8PAgCLcBGAs/s1600/Bologna%2BFC256x.png"
+  },
+  {
+    "name": "Cagliari",
+    "description": "Cagliari Calcio, known simply as Cagliari, is recognized for its passionate fan base and its historic Serie A title win in the 1969-70 season.",
+    "city_country": "Cagliari, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-oqs8dK0oZ-w/Whq2CH-wZhI/AAAAAAABQPc/rhQXKILTn-o2hWRwsbcoNasYFawYPQptACLcBGAs/s1600/Cagliari%2BCalcio256x.png"
+  },
+  {
+    "name": "Como",
+    "description": "Como 1907 has a storied history in Italian football, known for its consistent presence in the lower divisions and its passionate local support.",
+    "city_country": "Como, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-OUYr5zUK4WU/YNKRbuH55wI/AAAAAAABj9w/X0PZe9624X8O6FRuyi8rH4C5eTYLExGIwCLcBGAsYHQ/s256/Como%2B1907256x.png"
+  },
+  {
+    "name": "Empoli",
+    "description": "Empoli FC is known for its focus on developing young talents and its strong performances in Serie A, where it has established itself as a solid club.",
+    "city_country": "Empoli, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-XudSdMYWgRY/YM846HEDWhI/AAAAAAABj2M/tNLm31B-QesSkkGSXcs3ntaFvj0BfOljwCLcBGAsYHQ/s256/Empoli%2BFC256x.png"
+  },
+  {
+    "name": "Fiorentina",
+    "description": "ACF Fiorentina is renowned for its rich history, including several domestic trophies and its passionate fan base. The club is known for its distinctive purple kit.",
+    "city_country": "Florence, Italy",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh042NKxa5ZdbWuGNaHC-h6Lc-KedtMdI0dK1AHu-1JEsJWu6yv4nuG96Sy5Bf8spERazmr4KuKV84mDDykssQgXiYtN5D2Ow1iS6wbvFgyjyMXQJ1XKISrc2PnoI1ZfIYwUBmcoUeNt2eVX6OLI-qICMD9J8XW4hC_7PsXlvrMAkwUHe1tIeFCEnU_/s256/Fiorentina256x.png"
+  },
+  {
+    "name": "Genoa",
+    "description": "Genoa CFC, the oldest Italian football club, boasts a rich history and a strong tradition, with several Serie A titles and a loyal fan base.",
+    "city_country": "Genoa, Italy",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiztJPu2mykT6UPlT9i0JmTYhDIGM2Op_vgYWa7KsyCvFFkgerlmfaly8hymVB1PYLm8iEH9x0DLtaPUPZ7JOzWEhzwWlgAljMrHS2ova-03TqhsVtoL2T78K8AmCIpFTV3TtVg2qh2hi9hhHYythhkMywebv03aryO3mJjw9ppJdQndYQILmKap7ja/s256/Genoa%20CFC256x.png"
+  },
+  {
+    "name": "Hellas Verona",
+    "description": "Hellas Verona FC is known for its historic Serie A title win in the 1984-85 season and its passionate local support.",
+    "city_country": "Verona, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-Z6NjtZj9LoI/XtTgDL9wisI/AAAAAAABb-k/KUdnsGQVueUo4Jzg5aVdmm89X_fER0ejgCK4BGAsYHg/Hellas%2BVerona%2BFC256x.png"
+  },
+  {
+    "name": "Inter Milan",
+    "description": "FC Internazionale Milano, commonly known as Inter Milan, is one of Italy's most successful clubs with numerous domestic and international titles, including multiple Champions League victories.",
+    "city_country": "Milan, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-jJNzvtOrHpc/YElvqJKopwI/AAAAAAABi-o/EPssWiEleB4GeVK-_bVuDfZHOJhkvBvpgCLcBGAsYHQ/s256/FC%2BInternazionale256x.png"
+  },
+  {
+    "name": "Juventus",
+    "description": "Juventus FC is the most successful club in Italian football history, known for its numerous Serie A titles and strong performances in European competitions.",
+    "city_country": "Turin, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-FYWmtpOgkwo/XyS3Y_gjf0I/AAAAAAABfhU/YYzmXWmTRx4YSR5MI2XsU-wGZVcsFeQjwCLcBGAsYHQ/s256/Juventus%2BFC256x.png"
+  },
+  {
+    "name": "Lazio",
+    "description": "SS Lazio, based in Rome, is known for its rich history and its competitive performances in both domestic and European competitions.",
+    "city_country": "Rome, Italy",
+    "logo_url": "https://2.bp.blogspot.com/-HvFVu9UxTuA/WVd9xzvctvI/AAAAAAABK6s/j1AX-iHqJz8IDeCvKbLJASxFZJamy9ojQCLcBGAs/s1600/SS%2BLazio256x.png"
+  },
+  {
+    "name": "Lecce",
+    "description": "US Lecce is recognized for its passionate fan base and its strong performances in Serie A and the lower divisions of Italian football.",
+    "city_country": "Lecce, Italy",
+    "logo_url": "https://3.bp.blogspot.com/-EOtzRq0zSE0/Wzg1Aeg_xNI/AAAAAAABRSg/kQm1e-L9KZ4AeQXMHKbQ3TQetvdEoIExgCLcBGAs/s1600/Unione%2BSportiva%2BLecce256x.png"
+  },
+  {
+    "name": "AC Milan",
+    "description": "AC Milan is one of Italy's most prestigious football clubs, with a rich history of domestic and international success, including numerous Champions League titles.",
+    "city_country": "Milan, Italy",
+    "logo_url": "https://2.bp.blogspot.com/-6Ci-0kViIE4/WVd1x76UB2I/AAAAAAABK3k/2uLczEmFXFg2fUsNBoMsA_egLB-BQ237ACLcBGAs/s1600/AC%2BMilan256x.png"
+  },
+  {
+    "name": "Monza",
+    "description": "AC Monza has made significant strides in Italian football in recent years, known for its competitive spirit and rapid rise through the leagues.",
+    "city_country": "Monza, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-auc0npJlpNo/Xmsxp5Rd2hI/AAAAAAABYDE/ZiqOTZ3KXWcrUtjIsrisG618E92AWtlIQCLcBGAsYHQ/s1600/AC%2BMonza256x.png"
+  },
+  {
+    "name": "Napoli",
+    "description": "SSC Napoli is famous for its passionate fan base and its historic Serie A title win in the 1986-87 season with Diego Maradona leading the team.",
+    "city_country": "Naples, Italy",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii7B2GRChIf6HXZBo_2qoJ5vRYDNBfYf2ivfoAUxBiWKpz8HtIemSGGqMC6Zwdp69LGWbpweYMZF3l3_ol-SwHbnEzVnXq89vjQdpF-d2uqBWq7Kj5d78E8HDgi4rW52aPjNPB-FwMC_grPjrMLwMyx6uhBjWv7K4ITgRPPDsC1bWK6uh1twoCI9M6T64/s256/Napoli256x.png"
+  },
+  {
+    "name": "Parma",
+    "description": "Parma Calcio 1913 is known for its successful period in the 1990s, with multiple domestic and European trophies, and a strong tradition in Italian football.",
+    "city_country": "Parma, Italy",
+    "logo_url": "https://3.bp.blogspot.com/-_M1fw_TOaBI/W_vK6yl3CKI/AAAAAAABTJM/gK3uqjg8Mg0KDZe20rCj8jJmODEaR5y0ACLcBGAs/s1600/Parma%2BCalcio%2B1913256x.png"
+  },
+  {
+    "name": "Roma",
+    "description": "AS Roma is a major club in Italian football with a passionate fan base and a storied history, including several domestic titles and European competitions.",
+    "city_country": "Rome, Italy",
+    "logo_url": "https://1.bp.blogspot.com/-qjkCVVSwqmc/XX2g-y_ceyI/AAAAAAABV_s/AKcU7GSkIYsR1AfmG_3zKIJYEx33GExRgCLcBGAsYHQ/s1600/AS%2BRoma256x.png"
+  },
+  {
+    "name": "Torino",
+    "description": "Torino FC is known for its historic Torino team of the 1940s and its competitive spirit in Italian football, with a strong local following.",
+    "city_country": "Turin, Italy",
+    "logo_url": "https://2.bp.blogspot.com/-GlUbEOEFSnk/WVd-F3Zyk6I/AAAAAAABK60/GKWBuKZaYKESHj1l5M62vZBvws7tZDBzQCLcBGAs/s1600/Torino%2BFC256x.png"
+  },
+  {
+    "name": "Udinese",
+    "description": "Udinese Calcio is recognized for its development of international talent and consistent performances in Serie A.",
+    "city_country": "Udine, Italy",
+    "logo_url": "https://4.bp.blogspot.com/-ycNmzPkpTeg/W_vPY4NATtI/AAAAAAABTJk/AZmZbanT2sMylHciEsjxOULAg4PWHAggACLcBGAs/s1600/Udinese%2BCalcio256x.png"
+  },
+  {
+    "name": "Venezia",
+    "description": "Venezia FC is known for its distinctive colors and the historic city of Venice, and has a reputation for its passionate supporters.",
+    "city_country": "Venice, Italy",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYYzD2i73fMkvZkfnjQijl6vOCiLRSyN6YV6RAsVbfweJsJf4Dna9ZZO2F1pEtmhOIZo6_EII_WmYRiWsoL3WiaKJhqCc55jp3RD9lTyb3msL9yvdu-hgOkXK-wp6hZVYotr1Q27YjocgqhspY01ECZfcLyurP03xOTLzKXW0dw5DSUCYzIWCV1siUg_w/s256/Venezia%20FC256x.png"
   }
 ]
