@@ -880,5 +880,113 @@
     "description": "Toulouse is recognized for its competitive Ligue 1 performances and strong local support.",
     "city_country": "Toulouse, France",
     "logo_url": "https://1.bp.blogspot.com/-XOBHDuEckog/YOZkUMJYggI/AAAAAAABkZM/rRUtue8F7cw72FNKXSlgFsfk8GOf0-4ugCLcBGAsYHQ/s256/Toulouse%2BFC256x.png"
+  },
+  {
+    "name": "Al-Ahli Saudi",
+    "description": "Al-Ahli is known for its competitive performances in the Saudi Pro League and a rich history of domestic success.",
+    "city_country": "Jeddah, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/272px-Al_Ahli_Saudi_FC_logo.svg.png?20220628000535"
+  },
+  {
+    "name": "Al-Ettifaq FC",
+    "description": "Al-Ettifaq is recognized for its strong performances in the Saudi Pro League and has a significant regional presence.",
+    "city_country": "Dammam, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Al-Ettifaq_FC_logo.svg/316px-Al-Ettifaq_FC_logo.svg.png?20230904060635"
+  },
+  {
+    "name": "Al-Fateh SC",
+    "description": "Al-Fateh SC is known for its competitive spirit in the Saudi Pro League and its notable league win in 2013.",
+    "city_country": "Al-Hasa, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Fateh_SC_Logo.svg/600px-Al_Fateh_SC_Logo.svg.png"
+  },
+  {
+    "name": "Al-Fayha FC",
+    "description": "Al-Fayha FC is recognized for its growing presence in Saudi football and competitive performances in the league.",
+    "city_country": "Al Majma'ah, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Al_Fayha_FC_logo.png?20220823000115"
+  },
+  {
+    "name": "Al-Hilal FC",
+    "description": "Al-Hilal FC is one of the most successful clubs in Saudi Arabia, known for its numerous league titles and continental success.",
+    "city_country": "Riyadh, Saudi Arabia",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3QytAZCExOaQqWPAhRR6Kb9un9TlFjnQ-sIoyJ0e5ph7_vNGzMlZpkHJx48wToB5lZKpbrbx5VdaTu9bqZbweUzJ_YRGENjiwsN1jleG4Wf3gde9JfLad7fKFiRojha_-2VjkiEQ3tU5PlpciL-utPrr0FHN61ynNp-PV9KydUdFBqYMrKvt4ajWo/s256/Al-Hilal%20FC256x.png"
+  },
+  {
+    "name": "Al-Ittihad FC",
+    "description": "Al-Ittihad FC is famed for its historic success in Saudi football and multiple league championships.",
+    "city_country": "Jeddah, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Al-Ittihad_Club_%28Jeddah%29_logo.svg/258px-Al-Ittihad_Club_%28Jeddah%29_logo.svg.png?20240320135541"
+  },
+  {
+    "name": "Al-Khaleej FC",
+    "description": "Al-Khaleej FC is known for its competitive presence in the Saudi Pro League and regional football achievements.",
+    "city_country": "Saihat City, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Al-Khaleej_FC_Logo.svg/249px-Al-Khaleej_FC_Logo.svg.png?20240203012533"
+  },
+  {
+    "name": "Al-Kholood FC",
+    "description": "Al-Kholood FC is a competitive team in the Saudi football scene, making strides in the league.",
+    "city_country": "Ar Rass, Saudi Arabia",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyOQj8YLjbjS1_Ms_gaQphK29-RSnhSU_YU9aHKITIcKauqYlEbsro15fyL2lO7UVvFLdYAamgChiHCQ2P4AS30tbkvihnNXJhUwljv_m8601H_aEI1ZIo4mrIk6rjTKKfzHibkv3P3ynIPbrRT0JvamUIDVDJiMQCBfuv4zYXbBGcRm7CscKgt_nggXk/s256/Al%20Kholood%20Club256x.png"
+  },
+  {
+    "name": "Al-Nassr FC",
+    "description": "Al-Nassr FC is renowned for its domestic dominance and success in regional competitions.",
+    "city_country": "Riyadh, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Al_Nassr_FC_Logo.svg/221px-Al_Nassr_FC_Logo.svg.png?20240427140352"
+  },
+  {
+    "name": "Al-Okhdood FC",
+    "description": "Al-Okhdood FC is known for its competitive performances in the lower tiers of Saudi football.",
+    "city_country": "Najran, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/AlOkhdood-NewLogo.png/600px-AlOkhdood-NewLogo.png?20240809203438"
+  },
+  {
+    "name": "Al-Orobah FC",
+    "description": "Al-Orobah FC is a notable team in the Saudi football scene, striving for success in national competitions.",
+    "city_country": "Sakaka, Saudi Arabia",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyJ3Wwn_NCv85mFsIgq30_z2qNBe2MmWkRHtpjwOhC8tXcpvX8LWR4hQHgmVxjq5E0LdSbJMobmgQlHIJaC-b2l6WIPjAxtyuXDHDuswA6jWyqacwEaHK4FJr2KUwmWtg-VMJcgWBYFLiycf0w_NPmEm1Ai09liTSOZ5tFkvlxr9zOqcSXHub6f9vQTWI/s256/Al-Orobah%20FC256x.png"
+  },
+  {
+    "name": "Al-Qadsiah FC",
+    "description": "Al-Qadsiah FC is recognized for its competitive spirit in the Saudi Pro League and its regional achievements.",
+    "city_country": "Khobar, Saudi Arabia",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7kmYXq-Veqqlf1AZAh4qYT0pCmMd7aampqecX5yCf9Plz4A3sBblxj_lZ-NVrleZpd6k113ETZjwdYQk3Q04WZq5AtLD1h-c9S61KYM_f9eZGNIL6htGBzATLUE1nKnGIxzjjPX93Kc7wxnVccvqQzCtNMrhajG7UOw1U5lcpr0tj2krE1mH98W9CsxI/s256/Al-Qadisiyah%20FC256x.png"
+  },
+  {
+    "name": "Al-Raed FC",
+    "description": "Al-Raed FC is known for its solid performances in the Saudi Pro League and its local fan support.",
+    "city_country": "Buraidah, Saudi Arabia",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ojPwR5_mcy3yaERejRGEuikG8yiL1_WpFGQS_4DT5hiN21SixsvZXrf6l3Km1onCeqTucAkJIOVVb_INcjoOnVDq4AgR7ILBIZJhGeoTK2LkaaGKmaHHjVs-XARaQ0O2oLzZXc1mJQB6afVM9D81UidpybYyPaniLhWlzTReHWmGvxYmJ6zMWXeM/s256/Al-Raed%20FC256x.png"
+  },
+  {
+    "name": "Al-Riyadh SC",
+    "description": "Al-Riyadh SC is a prominent club in Saudi football, known for its competitive performances and local presence.",
+    "city_country": "Riyadh, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Al_Riyadh.png?20230605002317"
+  },
+  {
+    "name": "Al-Shabab FC",
+    "description": "Al-Shabab FC is recognized for its historical success in Saudi football and its competitive edge in domestic tournaments.",
+    "city_country": "Riyadh, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Al_Shabab_FC_%28Riyadh%29.svg/316px-Al_Shabab_FC_%28Riyadh%29.svg.png?20230703000447"
+  },
+  {
+    "name": "Al-Taawoun FC",
+    "description": "Al-Taawoun FC is known for its competitive performances in the Saudi Pro League and regional achievements.",
+    "city_country": "Buraidah, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Al_Taawoun_FC_Logo.svg/259px-Al_Taawoun_FC_Logo.svg.png?20240203011852"
+  },
+  {
+    "name": "Al-Wehda FC",
+    "description": "Al-Wehda FC is a notable team in the Saudi Pro League, known for its strong regional presence.",
+    "city_country": "Mecca, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Al_Wehda_FC_Logo.svg/260px-Al_Wehda_FC_Logo.svg.png?20240203010929"
+  },
+  {
+    "name": "Damac FC",
+    "description": "Damac FC is recognized for its competitive presence in the Saudi Pro League and recent achievements.",
+    "city_country": "Khamis Mushait, Saudi Arabia",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Damac_FC_Logo.svg/316px-Damac_FC_Logo.svg.png?20240204000330"
   }
 ]
