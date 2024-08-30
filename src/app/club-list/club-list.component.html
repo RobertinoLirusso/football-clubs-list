@@ -2,6 +2,7 @@
   <mat-form-field appearance="outline">
     <mat-label>Search clubs</mat-label>
     <input matInput (keyup)="onSearch($event)" placeholder="Search by name, city, or country">
+        <mat-icon matSuffix>search</mat-icon>
   </mat-form-field>
 </div>
 
@@ -19,6 +20,6 @@
 </div>
 
 <div *ngIf="filteredClubs.length > 0" class="paginator-container">
-  <mat-paginator [length]="filteredClubs.length" [pageSize]="30" [pageSizeOptions]="[30, 60, 90]" (page)="onPageChange($event)">
+  <mat-paginator [length]="filteredClubs.length" [pageSize]="30" (page)="onPageChange($event)">
   </mat-paginator>
 </div>

@@ -9,9 +9,28 @@ mat-dialog-content {
     align-items: center;
 }
 
+h2,h3, p {
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+b {
+    color: black;
+}
 
 .logo {
     max-width: 100%; /* Ajustar la imagen al ancho del contenedor */
     height: 200px; /* Mantener la proporción de la imagen */
     margin-bottom: 16px; /* Espacio debajo de la imagen */
+    animation: fadeIn 1.5s ease-out; /* Duración de la animación y tipo de easing */
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px); 
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }

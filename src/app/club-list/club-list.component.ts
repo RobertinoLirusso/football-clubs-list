@@ -86,6 +86,7 @@ export class ClubListComponent implements OnInit {
     this.pageSize = event.pageSize;
     this.currentPage = event.pageIndex;
     this.updatePagedClubs();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
   updatePagedClubs(): void {
