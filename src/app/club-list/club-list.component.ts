@@ -8,13 +8,13 @@ import { MatPaginator, PageEvent } from '@angular/material/paginator';
 @Component({
   selector: 'app-club-list',
   templateUrl: './club-list.component.html',
-  styleUrls: ['./club-list.component.css']  // Asegúrate de que esto sea `styleUrls`
+  styleUrls: ['./club-list.component.css']  
 })
 export class ClubListComponent implements OnInit {
 
   clubs: Club[] = [];
   filteredClubs: Club[] = [];
-  pagedClubs: Club[] = [];  // Clubes para la página actual
+  pagedClubs: Club[] = [];  
   noResults: boolean = false;
   alphabet: string[] = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
@@ -37,7 +37,7 @@ export class ClubListComponent implements OnInit {
       this.clubs = data;
       this.sortClubsAZ();
       this.filteredClubs = [...this.clubs];
-      this.updatePagedClubs();  // Actualiza los clubes paginados
+      this.updatePagedClubs();  
       this.noResults = false;  
     });
   }
@@ -61,8 +61,8 @@ export class ClubListComponent implements OnInit {
       club.description?.toLowerCase().includes(searchTerm)
     );
     this.noResults = this.filteredClubs.length === 0 && searchTerm.length > 0;
-    this.currentPage = 0;  // Resetea a la primera página después de una búsqueda
-    this.updatePagedClubs();  // Actualiza los clubes paginados
+    this.currentPage = 0;  
+    this.updatePagedClubs();  
   } 
 
   sortClubsAZ(): void {

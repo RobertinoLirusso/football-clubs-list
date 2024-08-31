@@ -65,22 +65,19 @@ mat-card-actions {
 .search-container {
     margin: 20px auto;
     max-width: 320px;
-    background-color: snow;
 }
   
 mat-form-field {
     width: 100%;
-  }
+}
 
 
-
-  
-  .paginator-container {
+.paginator-container {
     display: flex;
     justify-content: center; 
     margin-top: 20px; 
     margin-bottom: 20px;
     width: 100%; 
-  }
+}
   
 

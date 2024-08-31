@@ -988,5 +988,113 @@
     "description": "Damac FC is recognized for its competitive presence in the Saudi Pro League and recent achievements.",
     "city_country": "Khamis Mushait, Saudi Arabia",
     "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Damac_FC_Logo.svg/316px-Damac_FC_Logo.svg.png?20240204000330"
+  },
+  {
+    "name": "Ajax",
+    "city_country": "Amsterdam, Netherlands",
+    "description": "Ajax is known for its world-class youth academy, which has produced numerous football stars over the decades.",
+    "logo_url": "https://2.bp.blogspot.com/-1UzfMl-1pUQ/WVeT5Kc0g7I/AAAAAAABK9Q/d5IEueByBcAqE9yr8M-fUavsIiuWm5S8gCLcBGAs/s1600/AFC%2BAjax256x.png"
+  },
+  {
+    "name": "Almere City",
+    "city_country": "Almere, Netherlands",
+    "description": "Almere City FC is a relatively young club, founded in 2001, with aspirations of growing into a strong Eredivisie side.",
+    "logo_url": "https://2.bp.blogspot.com/-WGR4CLMKrj8/XMucPjRNJnI/AAAAAAABVA0/_Pb6YEIB-8cKX4h0Q3lvO6OLxw0TNC5ugCLcBGAs/s1600/Almere%2BCity%2BFC256x.png"
+  },
+  {
+    "name": "AZ",
+    "city_country": "Alkmaar, Netherlands",
+    "description": "AZ Alkmaar is celebrated for its consistent performances in the Eredivisie and its successful youth development program.",
+    "logo_url": "https://3.bp.blogspot.com/-QgiClfIQojs/WVeUMsym3gI/AAAAAAABK9c/I4FJ_x9Mz4oD_F238fgt_sa565Jlul4zwCLcBGAs/s1600/AZ%2BAlkmaar256x.png"
+  },
+  {
+    "name": "Feyenoord",
+    "city_country": "Rotterdam, Netherlands",
+    "description": "Feyenoord is one of the most successful and popular football clubs in the Netherlands, known for their competitive spirit.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/512px-Feyenoord_logo_since_2024.svg.png"
+  },
+  {
+    "name": "Fortuna Sittard",
+    "city_country": "Sittard, Netherlands",
+    "description": "Fortuna Sittard has a history of producing talented players who go on to have successful careers in Europe.",
+    "logo_url": "https://4.bp.blogspot.com/-SRgLmzGmgb4/Wz6JzI1MdUI/AAAAAAABRaA/YGfjunT60OA3dSSDfkjbf0DHfH0tk2btQCLcBGAs/s1600/Fortuna%2BSittard256x.png"
+  },
+  {
+    "name": "Go Ahead Eagles",
+    "city_country": "Deventer, Netherlands",
+    "description": "Go Ahead Eagles have a long history, with multiple titles in the early years of Dutch football.",
+    "logo_url": "https://1.bp.blogspot.com/-tdyOMJXvk4U/XEIKBYzSfmI/AAAAAAABT1Q/fBvOXDs8dmE-YbLWVXpw9Ixe27IgOdy4gCLcBGAs/s1600/Go%2BAhead%2BEagles256x.png"
+  },
+  {
+    "name": "Groningen",
+    "city_country": "Groningen, Netherlands",
+    "description": "FC Groningen is known for its ability to compete with the top Dutch clubs and has a strong fan base in the northern Netherlands.",
+    "logo_url": "https://2.bp.blogspot.com/-CHa3PkmEfvs/WVeUr0F8htI/AAAAAAABK9w/gh7OPdHoNAcUm8mj5twq_G_0t3HbV1d1ACLcBGAs/s1600/FC%2BGroningen256x.png"
+  },
+  {
+    "name": "Heerenveen",
+    "city_country": "Heerenveen, Netherlands",
+    "description": "SC Heerenveen is recognized for its distinctive Frisian roots and its tradition of nurturing young talent.",
+    "logo_url": "https://1.bp.blogspot.com/-JtK8vsbEz7s/X5tYj_JMLrI/AAAAAAABhIs/Uznv6wwu-0sKvlIOahP2i5uB_xsUep-dACLcBGAsYHQ/s256/SC%2BHeerenveen256x.png"
+  },
+  {
+    "name": "Heracles Almelo",
+    "city_country": "Almelo, Netherlands",
+    "description": "Heracles Almelo is admired for its resilience and ability to stay competitive in the top tier of Dutch football.",
+    "logo_url": "https://2.bp.blogspot.com/-2F45uqtQJRU/WVeWDSD6nYI/AAAAAAABK-c/FjoDSfWB918dyu8KgcMDWALRDMiC4eI_gCLcBGAs/s1600/Heracles%2BAlmelo256x.png"
+  },
+  {
+    "name": "NAC Breda",
+    "city_country": "Breda, Netherlands",
+    "description": "NAC Breda is known for its passionate support and has a rich history in Dutch football.",
+    "logo_url": "https://3.bp.blogspot.com/-1W1AmG_tYeM/WVeWa-2OSxI/AAAAAAABK-w/kUUECvCtM302FOlIJEzDvCjfpDYgf2QmQCLcBGAs/s1600/NAC%2BBreda256x.png"
+  },
+  {
+    "name": "NEC",
+    "city_country": "Nijmegen, Netherlands",
+    "description": "NEC Nijmegen has a proud tradition and has seen fluctuating fortunes in Dutch football.",
+    "logo_url": "https://2.bp.blogspot.com/-S0w5atDCXMg/XNd3Zv4-3EI/AAAAAAABVDA/VhXwzgXsoSEoQtyYJUo6i53hAnsB1bEcgCLcBGAs/s1600/NEC256x.png"
+  },
+  {
+    "name": "PEC Zwolle",
+    "city_country": "Zwolle, Netherlands",
+    "description": "PEC Zwolle has a reputation for being a well-organized club with strong performances in domestic competitions.",
+    "logo_url": "https://1.bp.blogspot.com/-UY5DMfovkBo/WVeWuC6_oCI/AAAAAAABK-8/Zvoh_U3Jve4Peuk6KXNlr-KHDTtPKhkKgCLcBGAs/s1600/PEC%2BZwolle256x.png"
+  },
+  {
+    "name": "PSV",
+    "city_country": "Eindhoven, Netherlands",
+    "description": "PSV Eindhoven is one of the 'big three' clubs in the Netherlands, renowned for their European campaigns and domestic success.",
+    "logo_url": "https://1.bp.blogspot.com/-keRR9UkNHlw/XtA1xxrb5dI/AAAAAAABbyY/6B7STLCJl9Qipawl4iLJDvWFEDv_TieAwCK4BGAsYHg/PSV%2BEindhoven256x.png"
+  },
+  {
+    "name": "RKC Waalwijk",
+    "city_country": "Waalwijk, Netherlands",
+    "description": "RKC Waalwijk is known for its fighting spirit, often punching above its weight in the Eredivisie.",
+    "logo_url": "https://1.bp.blogspot.com/-U4w20pLY5a8/XFNU0P_6V3I/AAAAAAABUP0/COztvqzl08kV8hwtHqVZJ_Uliw5FN3SVwCLcBGAs/s1600/RKC%2BWaalwijk256x.png"
+  },
+  {
+    "name": "Sparta Rotterdam",
+    "city_country": "Rotterdam, Netherlands",
+    "description": "Sparta Rotterdam is the oldest professional football team in the Netherlands, with a rich tradition and history.",
+    "logo_url": "https://2.bp.blogspot.com/-0dLv0FsfX9I/WVeYNuGIOBI/AAAAAAABK_4/rDkS9WZH-EMwm7Uia5eWk2WV8aJGBwxWgCLcBGAs/s1600/Sparta%2BRotterdam256x.png"
+  },
+  {
+    "name": "Twente",
+    "city_country": "Enschede, Netherlands",
+    "description": "FC Twente is known for its passionate supporters and their remarkable comeback after financial difficulties.",
+    "logo_url": "https://4.bp.blogspot.com/-YG2JVswyE3Y/WVeVAVnP_UI/AAAAAAABK98/i-KSvrrNBIAoYaU1xCe7AFPKRMbZOymBgCLcBGAs/s1600/FC%2BTwente256x.png"
+  },
+  {
+    "name": "Utrecht",
+    "city_country": "Utrecht, Netherlands",
+    "description": "FC Utrecht is a club with a strong identity, regularly challenging the traditional Dutch top teams.",
+    "logo_url": "https://1.bp.blogspot.com/-uq-Oy-P-iQE/YN5zQnV17TI/AAAAAAABkIc/IcJZykegdaU927TaFuZ84n0IGrp-9DFMACLcBGAsYHQ/s256/FC%2BUtrecht256x.png"
+  },
+  {
+    "name": "Willem II",
+    "city_country": "Tilburg, Netherlands",
+    "description": "Willem II Tilburg has a deep history and is named after King William II of the Netherlands.",
+    "logo_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhzZ4vBFoUvM5a7o8OhbGNOT5_KLwYLtdnV6Bqgx8opgDc2xaUNRLYLk5bIXpkA_UE3hMZKTMH5meXGHbGosVXjh8vWo0OqWJ1v1Mq2Hs2Y1OVv_otwqfi0xMFPJ-lcoyokO3YfZxWA8Fw44Yk6xnmI8z-AF4oUeKrFRTjzHD9Qg2UpMc-7s_Rc3tww=s256"
   }
 ]
