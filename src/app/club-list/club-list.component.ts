@@ -1,9 +1,9 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { Club } from '../interfaces/club';
 import { ClubService } from '../services/club.service';
 import { MatDialog } from '@angular/material/dialog';
 import { ModalComponent } from '../modal/modal.component';
 import { MatPaginator, PageEvent } from '@angular/material/paginator';
+import { Club } from '../interfaces/club';
 
 @Component({
   selector: 'app-club-list',
