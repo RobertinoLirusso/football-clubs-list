@@ -10,6 +10,13 @@
   <p>No clubs found matching your search criteria.</p>
 </div>
 
+
+<div *ngIf="filteredClubs.length > 0" class="actions">
+  <mat-checkbox (change)="toggleTeams($event.checked)">
+    View National Teams
+  </mat-checkbox>
+</div>
+
 <div class="container responsive-grid">
   <mat-card class="club-card" appearance="outlined" *ngFor="let club of pagedClubs" (click)="openClubDetailModal(club)">
     <img mat-card-image [src]="club.logo_url" alt="club_logo" class="logo">

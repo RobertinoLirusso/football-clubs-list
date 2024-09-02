@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Argentina",
+    "description": "Argentina is one of the most successful football teams in the world. They have won three FIFA World Cup titles (1978, 1986, and 2022) and numerous Copa América titles.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8ITQ_J_uQcj1jPzNBmHWH_i0RdUtoP8oqhA1dvOcId_it-fc0mYJ1yKqZCPzEB0BEMh_vfN-R87bFHF5z-wrLIo6wkDdeQH4US_Q3ogH_bNTG1zIsQ1gygPsLT3WsWlA2dS92VjUZLvLsGupRdAPDgnnf_6oyUnX1FKhwNbG7XMVOaS4BEWd6oF9E/s256/Argentina256x.png"
+  },
+  {
+    "name": "Brasil",
+    "description": "Brasil is the most successful national team in the history of the FIFA World Cup, with five titles (1958, 1962, 1970, 1994, 2002). They are also known for their vibrant and skillful style of play.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0TxIr56fSjPYhonpavUIZf0UjIL7qWMVRa6Hycvl9891qN_SVLW1brHvl0G7o_NMsOhpSSIR4ECobKUttVK4ProDmVUZfWU5trHHuBkiOeF-Kd-4eehwmcK9yrg-WJzSY4-qcvsP79UzLtsiqN69Owgyd-R2-J_7Mi75clGPUg7YNiEaPPX5BckR1/s256/BRA256x.png"
+  },
+  {
+    "name": "Uruguay",
+    "description": "Uruguay has a rich football history, having won two FIFA World Cups (1930 and 1950) and multiple Copa América titles. They were the first country to win the World Cup.",
+    "logo_url": "https://1.bp.blogspot.com/-QT0YlhCksZk/X4pYPPnsTgI/AAAAAAABg9M/r3Elvu150LcDKmTUkIdrXAwhVolvD0k9wCLcBGAsYHQ/s256/Uruguay256x.png"
+  },
+  {
+    "name": "Chile",
+    "description": "Chile is known for winning back-to-back Copa América titles in 2015 and 2016. They have a strong football tradition and are competitive in South American tournaments.",
+    "logo_url": "https://1.bp.blogspot.com/-cw1hrqhBHbg/YM6b57La1nI/AAAAAAABjyA/udMkNwtDifoVrSPelTRdhAuvergGwvnMQCLcBGAsYHQ/s256/Chile256x.png"
+  },
+  {
+    "name": "Colombia",
+    "description": "Colombia is a strong South American football team, known for winning the Copa América in 2001. They have produced many talented players over the years.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIh17ksAJAWWRzIC7fCNCPu-AcPIpPW-mMjP7ivEOeU0LVD7vU_2Rr6hZz64UrGHCZk3uKtwAkVyO75iSJvijeOE904d6D95WtepoMA7KT1g5UTn3F5St4t5bxmDMfsNrq6l6Dq70x7mOwUFwJdA-6EMi1Bz_ZvVRGE38XeWoIpe6VVUVEVvk91v6G5dA/s256/Colombia256x.png"
+  },
+  {
+    "name": "Perú",
+    "description": "Perú has a proud football history, including winning the Copa América twice (1939 and 1975). They are known for their passionate fans and historic performances.",
+    "logo_url": "https://1.bp.blogspot.com/-ioufmA5Wol8/WeZIXZd9ugI/AAAAAAABPxg/Oq9K_KkXk3MqINhJZ1EhvYQDzpiGUeS7QCLcBGAs/s1600/Peru256x.png"
+  },
+  {
+    "name": "Paraguay",
+    "description": "Paraguay has won the Copa América twice (1953 and 1979) and is known for its strong defensive style of play. They have consistently competed in World Cup tournaments.",
+    "logo_url": "https://2.bp.blogspot.com/-piqQY2ROEMg/WWwYqOKCSQI/AAAAAAABM-I/d60oz9bCGMAJ1SN0IYHoomSVesFp7YAhACLcBGAs/s1600/Paraguay256x.png"
+  },
+  {
+    "name": "Ecuador",
+    "description": "Ecuador is a rising football nation, known for its qualification to the World Cup in recent years and their high-altitude home advantage. They reached the Round of 16 in the 2006 World Cup.",
+    "logo_url": "https://1.bp.blogspot.com/-yfnjnVHRsEA/Xh39IMNMRPI/AAAAAAABXDI/W1jG80pY23MDA3mb-_Uwz0GoV2jxG8hXgCLcBGAsYHQ/s1600/Ecuador256x.png"
+  },
+  {
+    "name": "Bolivia",
+    "description": "Bolivia won the Copa América in 1963 and is known for their strong home advantage due to the high altitude in La Paz. They qualified for the FIFA World Cup in 1930, 1950, and 1994.",
+    "logo_url": "https://1.bp.blogspot.com/-ABq5TZLhDRA/YMKf5Mw5BUI/AAAAAAABjtc/kyDKB0DtSig1CLJZo_YLG2-iUGTgqsloQCLcBGAsYHQ/s256/Bolivia256x.png"
+  },
+  {
+    "name": "Venezuela",
+    "description": "Venezuela is known as a developing football nation in South America. They have never qualified for the FIFA World Cup but have shown significant improvement in recent years.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4oHehM6x5KAI9RMfnXgqzLvHzrX2kE3iv0doxnbbZ5Psx1el2bL1_guR9wL7mCHHOf_VCBwsMCKRWIVmKWQ8iBQuOdUH8qexkdZSqrDVinPlB5iaMtNmrUVV_WosJUcLKVcoHsUq4QlffVubaMqFlQJ45Jd-iXu4ZBa_ZwVeiq61D4VcMP1YVzwJVATQ/s256/Venezuela256x.png"
+  },
+  {
+    "name": "New Zealand",
+    "description": "New Zealand is the most successful football team in Oceania, having won the OFC Nations Cup five times. They have also qualified for the FIFA World Cup twice, in 1982 and 2010.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsIAB11dweis4KUfjHK3XNCQ8JD7ljlm3XPcSoNdouDWy4Jmm4VwJmkkwVugyW2HESy8LOVuCS3GrcO9NDfsY9emQL0pbhCJGyRkWfAL0-jmWNqauvQ2-k7rkHRxqNM9AbGQ954uKZGBwIHEdCohZpj81hwhbZ6oH7IRzHsIvjvcvL-8PVD_Pfv1ww/s256/Nueva%20Zelanda256x.png"
+  },
+  {
+    "name": "Fiji",
+    "description": "Fiji is known for its consistent participation in the OFC Nations Cup. Although they have yet to qualify for the FIFA World Cup, they have a strong regional presence.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Fiji_FA.svg/264px-Fiji_FA.svg.png?20240121031719"
+  },
+  {
+    "name": "Solomon Islands",
+    "description": "Solomon Islands is a competitive football team in Oceania, known for reaching the OFC Nations Cup final in 2004. They are particularly strong in futsal and beach soccer.",
+    "logo_url": "https://4.bp.blogspot.com/-axi3m4iQEdA/WWxdspgRnOI/AAAAAAABNQ8/kcNJEt25_t8IFkW2NZh9uYJy8vLRWxZWwCLcBGAs/s1600/Islas%2BSalomon256x.png"
+  },
+  {
+    "name": "Papua New Guinea",
+    "description": "Papua New Guinea has shown significant improvement in recent years, finishing as runners-up in the 2016 OFC Nations Cup. They continue to develop their football program.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/PNGFA_Logo.svg/160px-PNGFA_Logo.svg.png?20110718064740"
+  },
+  {
+    "name": "Tahiti",
+    "description": "Tahiti is known for winning the 2012 OFC Nations Cup, becoming the first team other than Australia or New Zealand to win the title. They have also excelled in beach soccer, finishing as runners-up in the FIFA Beach Soccer World Cup in 2015.",
+    "logo_url": "https://1.bp.blogspot.com/-r-TkIjuOoh8/WWxf-PBrh5I/AAAAAAABNSg/nxwt9cDpBxAZi07qo2rxSk8P8IY6j_teACLcBGAs/s1600/Tahiti256x.png"
+  },
+  {
+    "name": "New Caledonia",
+    "description": "New Caledonia has been a strong contender in the OFC Nations Cup, reaching the final in 2008 and 2012. They are known for their passionate play and regional success.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/New_Caledonia_FA.svg/316px-New_Caledonia_FA.svg.png?20150101202616"
+  },
+  {
+    "name": "Vanuatu",
+    "description": "Vanuatu is a competitive team in Oceania, often reaching the knockout stages of the OFC Nations Cup. They continue to develop as a footballing nation.",
+    "logo_url": "https://3.bp.blogspot.com/-KUg9rsQ0crE/WWxgtghvIdI/AAAAAAABNS8/RTy_Vmwb9OE8-hJtLFV7yT5b2EED9AsDwCLcBGAs/s1600/Vanatu256x.png"
+  },
+  {
+    "name": "Samoa",
+    "description": "Samoa is a developing football team in Oceania, participating regularly in the OFC Nations Cup. They have a growing football community and are working to improve their international standing.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Football_Federation_Samoa_logo.svg/274px-Football_Federation_Samoa_logo.svg.png?20110718065154"
+  },
+  {
+    "name": "Tonga",
+    "description": "Tonga is known for its participation in the OFC Nations Cup and regional tournaments. Although they are a small footballing nation, they continue to build their program.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG7MZREUWy4yM50QCbDHFj7r63dMmmU3DPCEc_T4UPFSbS3fkqHoHkkp13g69koUVBocrjOPS7naVrvhmRhXtYgBUxLeKYpU1s5nuW24EoCwPiYTiwaRIdksGbx7vHyjh8Dgfpv0VwTBD66AwHOAuzPrAhY7lGzJhFYQEQiSpxtq9agESmoj5pJJaFlvY/s256/Tonga256x.png"
+  },
+  {
+    "name": "Cook Islands",
+    "description": "Cook Islands is one of the smaller football nations in Oceania, participating in regional competitions like the OFC Nations Cup. They are working to grow their football infrastructure.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Cook_Islands_FA.svg/316px-Cook_Islands_FA.svg.png?20150101174209"
+  },
+  {
+    "name": "American Samoa",
+    "description": "American Samoa is known for their famous 2001 victory, which ended a long winless streak. They continue to participate in regional tournaments and develop their football program.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Football_Federation_American_Samoa_%28badge%29.svg/247px-Football_Federation_American_Samoa_%28badge%29.svg.png?20110718070859"
+  },
+  {
+    "name": "Kiribati",
+    "description": "Kiribati is a developing football nation and a member of the Oceania Football Confederation. They have participated in regional tournaments and are working to improve their football infrastructure.",
+    "logo_url": "https://1.bp.blogspot.com/-jmuModclU3A/WWxeBaOuakI/AAAAAAABNRE/3ip6Gnq5AsM_hu4O9lXVB1ZesnvmIouXQCLcBGAs/s1600/Kiribati256x.png"
+  },
+  {
+    "name": "Tuvalu",
+    "description": "Tuvalu is one of the smallest football nations in Oceania. Despite their size, they have a passionate football community and participate in regional competitions.",
+    "logo_url": "https://1.bp.blogspot.com/-tFL5fCGtfdA/XSvKJV3iW2I/AAAAAAABVrM/FxkcrKtl-4s3czoZ7NUIu-Eqx-V5KhihwCLcBGAs/s1600/Tuvalu256x.png"
+  },
+  {
+    "name": "Niue",
+    "description": "Niue is a tiny island nation with a growing interest in football. They are not yet members of FIFA but have participated in regional tournaments within Oceania.",
+    "logo_url": "https://1.bp.blogspot.com/-hJM99dIBqAU/WWxeTmNx08I/AAAAAAABNRU/WEVahczN8CMXWmwQwO1TaAwzEI-9_dUdQCLcBGAs/s1600/Niue256x.png"
+  },
+  {
+    "name": "Palau",
+    "description": "Palau is an island nation with a developing football scene. They have not yet participated in major international competitions but are working to establish a national football program.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/4/44/Palau_FA_logo.png?20200720211728"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "description": "Wallis and Futuna is a small island territory in Oceania with a growing interest in football. They are not members of FIFA but participate in local and regional tournaments.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Coat_of_arms_of_Wallis_and_Futuna.svg/545px-Coat_of_arms_of_Wallis_and_Futuna.svg.png"
+  },
+  {
+    "name": "Nauru",
+    "description": "Nauru is the smallest independent republic in the world and has a limited football program. They participate in regional tournaments and are working to develop their football infrastructure.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/f/f5/Nauru_Soccer_Federation_logo.png?20240407032800"
+  },
+  {
+    "name": "Marshall Islands",
+    "description": "The Marshall Islands are one of the few nations in the world not affiliated with FIFA. They are developing a football program and aim to participate in regional competitions.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Marshall_Islands_Soccer_Association_Logo.png?20230222000225"
+  },
+  {
+    "name": "Micronesia",
+    "description": "Micronesia, a collection of small islands in the Pacific, has a nascent football scene. They are not yet FIFA members but are working to develop a national football team.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e2/F.S._Micronesia_Football_Association.png?20240407033957"
+  }
+]

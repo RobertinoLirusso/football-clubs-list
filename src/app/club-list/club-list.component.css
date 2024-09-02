@@ -45,9 +45,16 @@ mat-card-title {
     font-family: "Noto Sans JP", sans-serif;
 }
 
-.rounded-input .mat-form-field-outline {
-    border-radius: 15px; /* Cambia este valor según tus necesidades */
+.actions {
+    display: flex;
+    align-items: center;
+    margin-left: 18px;
   }
+  
+  .actions mat-checkbox {
+    margin-right: 10px; 
+  }
+
 
 mat-card-actions {
     margin-top: auto;
@@ -70,7 +77,6 @@ mat-card-actions {
 mat-form-field {
     width: 100%;
 }
-
 
 .paginator-container {
     display: flex;

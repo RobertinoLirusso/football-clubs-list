@@ -42,6 +42,24 @@ export class ClubListComponent implements OnInit {
     });
   }
 
+  getNT() {
+    this.clubService.getNT().subscribe((data) =>{
+      this.clubs = data;
+      this.sortClubsAZ();
+      this.filteredClubs = [...this.clubs];
+      this.updatePagedClubs();  
+      this.noResults = false;  
+    });
+  }
+
+  toggleTeams(isChecked: boolean) {
+    if (isChecked) {
+      this.getNT();
+    } else {
+      this.getClubs();
+    }
+  }
+
   openClubDetailModal(club: Club): void {
     const dialogRef = this.dialog.open(ModalComponent, {
       width: '400px',
