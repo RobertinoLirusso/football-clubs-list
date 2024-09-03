@@ -53,6 +53,10 @@ export class ClubListComponent implements OnInit {
   }
 
   toggleTeams(isChecked: boolean) {
+    this.currentPage = 0;
+    if (this.paginator) {
+      this.paginator.firstPage(); 
+    }
     if (isChecked) {
       this.getNT();
     } else {

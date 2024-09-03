@@ -143,5 +143,80 @@
     "name": "Micronesia",
     "description": "Micronesia, a collection of small islands in the Pacific, has a nascent football scene. They are not yet FIFA members but are working to develop a national football team.",
     "logo_url": "https://upload.wikimedia.org/wikipedia/en/e/e2/F.S._Micronesia_Football_Association.png?20240407033957"
+  },
+  {
+    "name": "Costa Rica",
+    "description": "Costa Rica is one of the most successful teams in Central America, with multiple CONCACAF Gold Cup titles. They have also qualified for the FIFA World Cup on five occasions, with their best performance being a quarter-final appearance in 2014.",
+    "logo_url": "https://1.bp.blogspot.com/-kUjO4RTu1KQ/YZ9u8VhPIpI/AAAAAAABlvA/56sEnwcHx4wYhjzVJ9KIkxHXxaIKLGaSwCLcBGAsYHQ/s256/Costa%2BRica256x.png"
+  },
+  {
+    "name": "Honduras",
+    "description": "Honduras has a strong football tradition and has qualified for the FIFA World Cup three times. They have also won the CONCACAF Gold Cup once and are regular competitors in the regional tournaments.",
+    "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Honduras_football_crest.svg/400px-Honduras_football_crest.svg.png"
+  },
+  {
+    "name": "Guatemala",
+    "description": "Guatemala has a rich football history in Central America. Although they have not yet qualified for the FIFA World Cup, they have been competitive in regional tournaments like the CONCACAF Gold Cup.",
+    "logo_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj9_fgraf6Oskrz3T1gIyCexeRvf8HUbFrDYtOMxfHaunYP_weZTfWOcvu2euTka0daOrW5gT-mranZphHnb-8ypBVYMoUi8N2AO1ptoh79O4uH2RXc5DLZVjozaYMa26Z6VQwPxiyxg4UbAO33stX4HCrRtZkwv_-oOlpnUx3KuTM3-SIgXRIRJLym=s256"
+  },
+  {
+    "name": "El Salvador",
+    "description": "El Salvador has a notable football history, having qualified for the FIFA World Cup twice. They are a competitive team in the CONCACAF region and have a strong domestic league.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU7CGqWr29mgLPOB7v87OdEzxAKNibZZfEI2yNkVzxMQDBfHzE9Xz7wsnqRDI4HlvvTBuN9VHc-Qlebhbt-wymYYzkilMdxkQc8prxjzqt6AI9Kn5_gkszrbBrtslvhQaCbtnUM_Y3Llu4q11WoGzEM0c_PkauAbfUOz3qHANMPvS_zBKhQZXBq-Eq/s256/SLV256x.png"
+  },
+  {
+    "name": "Nicaragua",
+    "description": "Nicaragua is a growing football team in Central America. They have participated in the CONCACAF Gold Cup and continue to develop their football infrastructure.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn6r0TU6ErP1hhA2P1JcyboxLHWLoyh3Jh02J_ef5hSGqOgiY2Mg8Iu6CdcU6v_zpDy8T8RuIe1BjV9A_ubrraXEuGzfHali5wOop25RUExWOXvlWK1VGjKuYWMT6jEqVN85O9z5vNeDeSgcnw_IaJ9MrkZ4Q7POi1gjO0mogJ9RIAMijn9lmtc0Pc/s256/Nicaragua256x.png"
+  },
+  {
+    "name": "Panama",
+    "description": "Panama is one of the most successful teams in recent years, qualifying for their first FIFA World Cup in 2018. They have also won the CONCACAF Gold Cup once and continue to be a competitive team in the region.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx4G3grpol_mE5-fektuXLBl45IUxSez6CEAOUMrIhG7uAubbgOE2Ni9VEgUvSJmFbx9AhasMrY6WZJC6DyGmZacmGNAwPRRQqizgAj-i73DKW5iPLVmlt8cGsIzvQ7omV6Zu-E62HZPPVFoKHFsfWwodZlR2j0vlRI_1Oh_3xdsJRDsqKXRwZrVHbrSc/s256/Panama256x.png"
+  },
+  {
+    "name": "Cuba",
+    "description": "Cuba has a rich football history and has won the Caribbean Cup multiple times. They have participated in various regional and international tournaments but have not yet qualified for the FIFA World Cup.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qr7KlUDxvbxFOK3t-LNF9J91ZBX97tcrNfzoAwWmcfzMO9_3-VvxMWhCLzkfgbBUo5l6j6iwuYLSm9ITBl8fxQOTJ8dw_XZCSM2Ds4SUeQz2BoXREmupre5QYjuqbFk5pscOWAYrnCC_O2HTv9DE_1gUE72TDA5V2nrL-d7f5NCWq5cfYVRjFiaIuMw/s256/Cuba256x.png"
+  },
+  {
+    "name": "Jamaica",
+    "description": "Jamaica has made significant strides in football, including qualifying for the FIFA World Cup in 1998. They have also won the Caribbean Cup and are strong contenders in the Gold Cup.",
+    "logo_url": "https://3.bp.blogspot.com/-ZUtGqTYh8hs/WWxV4Hs0PbI/AAAAAAABNNs/e13yrRhdPdUFT3X85aB_JLNB0zWzjUnMQCLcBGAs/s1600/Jamaica256x.png"
+  },
+  {
+    "name": "Haiti",
+    "description": "Haiti has a strong football tradition in the Caribbean, with notable performances in the Gold Cup and the World Cup. They qualified for the World Cup in 1974 and continue to be competitive in regional tournaments.",
+    "logo_url": "https://2.bp.blogspot.com/-5nfVJ9jCRxg/WWxIoyBq4dI/AAAAAAABNMc/2iLQt-4E220NpKCgMvdhLMqZ4fROdIYTwCLcBGAs/s1600/Haiti256x.png"
+  },
+  {
+    "name": "Dominican Republic",
+    "description": "The Dominican Republic is a developing football nation in the Caribbean, with growing participation in regional competitions. They are working to improve their football program and infrastructure.",
+    "logo_url": "https://1.bp.blogspot.com/-pVA6neTTuYc/YFajUxZwUcI/AAAAAAABjBk/q-cfok5aURYw_5XkmFsy4gtmG4LCPnlqQCLcBGAsYHQ/s256/Republica%2BDominicana256x.png"
+  },
+  {
+    "name": "Puerto Rico",
+    "description": "Puerto Rico has a growing football scene and participates in the Caribbean Cup and other regional tournaments. They continue to develop their football infrastructure and national team.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi60vOkwOab2BUxJx5gzVwETaXVgibmee8SKzBSmAfLNbsyeTAqQwqKoPZeJNrA-zooqfgJ4xGF7NsB8NReDriGuaxGYbc0T9JU8mCaHXniRNPvcp-jtSaICv524gPE2jKBzVdHQzt0ZngHnckd4qevdH3UaVITohfCeDWLLEt2WJy2MADrtzPOAC6DR5s/s256/Puerto%20Rico256x.png"
+  },
+  {
+    "name": "Belize",
+    "description": "Belize is a relatively new team in international football but has shown promise in regional competitions like the CONCACAF Gold Cup. They are working to build a stronger football program.",
+    "logo_url": "https://1.bp.blogspot.com/-fQZ7f6RTEV8/WWwgS-VQJLI/AAAAAAABNAc/r9R2M3v-SZ0Jw0h2qB1uBWmlkXX8UEidACLcBGAs/s1600/Belice256x.png"
+  },
+  {
+    "name": "Guyana",
+    "description": "Guyana has a growing football program and has participated in the CONCACAF Gold Cup. They are known for their passionate football community and are working on improving their national team.",
+    "logo_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJtx90vbCF9lYOdGojbzcD7A1Pn0l1kkzhlbfoU8mp_MCfp8UivIyAcHChkR58Ku8HQol0k_PVWzJ-zorkUe8p_37LlCjcvr7U1g3OSWKJTkDQFuIHHsio92BQND9ytTbTQmhj3SNLFlrEJfyE_SK-ZLpLkrhNP1MkqJ8hI3eEAPjqtmjY1Vx8X-JrxYs/s256/Guyana256x.png"
+  },
+  {
+    "name": "French Guiana",
+    "description": "French Guiana is a French overseas department with a developing football scene. They participate in regional tournaments and have a strong local football community.",
+    "logo_url": "https://example.com/logos/french_guiana.png"
+  },
+  {
+    "name": "Suriname",
+    "description": "Suriname has a strong football tradition in South America and has participated in various regional competitions. They continue to develop their football infrastructure and are competitive in regional tournaments.",
+    "logo_url": "https://3.bp.blogspot.com/-IVHEVAMszCE/XKgLlDYlfxI/AAAAAAABU18/offaQB-4htorwBPx_6EEp3I8YHZTKduhQCLcBGAs/s1600/Surinam256x.png"
   }
 ]
